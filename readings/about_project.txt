@@ -1,0 +1,17 @@
+this is a project that takes messy student data and clean it so to take actions based on that clean data 
+->take raw data in form of csv file 
+-> understand its structures
+->clean it 
+->make database for it 
+->then sql analysis of insigtfull buisness  questions
+->the making dasboard for it using powerbi 
+->Using this historical data we will predict different aspects using scikit-learn to apply Ml on this
+->final powerbi dashboard
+
+
+
+
+This going to be the first version a basic analysis and prediction project
+->can add more synthetic data to apply more ml and to give more prediction 
+->can add whatsappp transcripts and other data
+->early warnings and prediction  

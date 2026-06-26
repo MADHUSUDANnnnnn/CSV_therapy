@@ -1,0 +1,54 @@
+These are the intial data findings of the data 
+->rows 1050 ||coulmns 14
+
+->Summanry of missing values per column
+First Name               0
+Last Name               63
+Phone                  154
+Country                  0
+College                 46
+Enrollment Status        0
+Counsellor               4
+Fee Currency           557
+Fee Amount               0
+Fee Paid                 0
+Balance Due           1050
+Fee Payment Status    1050
+Student ID               0
+Deadline Date            0
+
+
+->Data type of each column
+First Name                str
+Last Name                 str
+Phone                     str
+Country                   str
+College                   str
+Enrollment Status         str
+Counsellor                str
+Fee Currency              str
+Fee Amount                str
+Fee Paid                int64
+Balance Due           float64
+Fee Payment Status    float64
+Student ID                str
+Deadline Date             str
+dtype: object
+
+->visible issues ->datatype of balance due shouls be numeric -> date should be datetime 
+
+->> Using describe() method few points noticed 
+->naming is inconsistent may or may not be issue have to investigate 
+->phone number have different pattern like some have country code some dont some have space some dont and some have no phone number
+->have to verify studentid uniquness
+->as part of proejct requirement balance due and payamnet status are needed to be calcualted.
+--->
+Major finding ther were 50 student_id that were duplicate ,Manual inspection shows that some of them are assigned to two different person,o so for now we cant use 
+student id as unique identifier
+-->The countries of the which students enrolled are Nigeria',      'Namibia',     'Botswana',     'Ethiopia',
+       'Rwanda',        'Ghana',       'Malawi',     'Tanzania',
+     'Zimbabwe', 'South Africa',       'Zambia',     'Cameroon',
+        'Kenya',       'Uganda'
+-->Types of Enrollment status are In Progress',     'Applied',     'Dropped',      'Active',     'Pending',
+     'On Hold',    'Enrolled',  'Waitlisted',    'Inactive',    'Deferred']
+
