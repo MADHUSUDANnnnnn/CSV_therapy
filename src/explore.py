@@ -1,5 +1,5 @@
 import pandas as pd 
-student =pd.read_csv ('/Users/madhusudan/student_intelligence/data/raw/student.csv')
+student =pd.read_csv ('../data/raw/student.csv')
  # print(student.columns)
 # print(student.info())
 # print(student.isnull().sum())
@@ -21,7 +21,8 @@ student =pd.read_csv ('/Users/madhusudan/student_intelligence/data/raw/student.c
 # print(student['Balance Due'])
 # print(student.dtypes)
 # print(student['Fee Amount'])
-# print(student['Fee Payment Status'])
+
+# print(student['Fee Payment Status']  
 # print(student['Deadline Date'])
 # print(student['Country'].unique())
 # print(student['Enrollment Status'].unique())
