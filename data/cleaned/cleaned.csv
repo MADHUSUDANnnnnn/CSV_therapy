@@ -1,0 +1,1051 @@
+First Name,Last Name,Phone,Country,College,Enrollment Status,Counsellor,Fee Currency,Fee Amount,Fee Paid,Balance Due,Fee Payment Status,Student ID,Deadline Date
+Binta,Kamau,,Nigeria,Srm University,In Progress,Priya,USD,562.5,0.0,562.5,Payment Due,EDO7182,2026-03-04
+Chidi,Girma,+264733532804,Namibia,Sharda University,Applied,Manan,USD,750.0,394.0,356.0,Payment Due,EDO9400,2025-12-15
+Emmanuel,Kariuki,+267310851528,Botswana,Amity Noida,Dropped,Akshay,USD,750.0,455.0,295.0,Payment Due,EDO8757,2025-04-25
+Emmanuel,Mokoena,854746785,Ethiopia,Lpu,Active,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO6256,2026-06-21
+Amara,Khumalo,,Rwanda,Bennett University,Applied,Priya,USD,1000.0,323.0,677.0,Payment Due,EDO9451,2024-05-04
+Chisom,Toure,,Ethiopia,Amity Noida,Active,Unknown,USD,2000.0,2000.0,0.0,No Payment Due,EDO4531,2025-12-11
+Omondi,Mensah,+250116654206,Rwanda,,Pending,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO8712,2024-08-30
+Samuel,Wanjiru,+233217127848,Ghana,Bennett University,In Progress,Abdul,USD,562.5,0.0,562.5,Payment Due,EDO5331,2026-12-21
+Faith,Mthembu,+265724387750,Malawi,Chitkara University,On Hold,Vivek,USD,1000.0,277.0,723.0,Payment Due,EDO9232,2025-06-13
+Mutua,Obi,+233189324495,Ghana,Vit University,Enrolled,Priya,USD,1500.0,248.0,1252.0,Payment Due,EDO6038,2026-09-26
+Peace,Sithole,,Ethiopia,,Active,Unknown,USD,750.0,97.0,653.0,Payment Due,EDO1731,2026-07-03
+Solomon,,+264998447456,Namibia,Chitkara University,In Progress,Unknown,USD,750.0,600.0,150.0,Payment Due,EDO7681,2026-08-17
+Peace,Zungu,+265136819955,Malawi,Upes,Enrolled,Akshay,USD,1000.0,575.0,425.0,Payment Due,EDO1790,2026-12-26
+Linet,Mumba,+255064212206,Tanzania,Amity Noida,Waitlisted,Priya,USD,1000.0,389.0,611.0,Payment Due,EDO5482,2026-01-05
+Zanele,Quartey,542629926,Zimbabwe,Srm Chennai,Waitlisted,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO8272,2025-04-02
+Musa,Mwale,+27162012998,South Africa,Manipal University,Pending,Manan,USD,562.5,226.3,336.2,Payment Due,EDO9884,2025-06-19
+Nomsa,Nwosu,+264921776353,Namibia,Amity University,Applied,Priya,USD,750.0,142.0,608.0,Payment Due,EDO2369,2025-12-14
+Faith,Achieng,583410378,Namibia,Upes,Enrolled,Not Found,USD,1500.0,1500.0,0.0,No Payment Due,EDO3368,2024-05-13
+Tunde,Mbewe,792737340,Zambia,Upes,Active,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO2678,2024-11-22
+Otieno,Gyasi,+264576730723,Namibia,Lovely Professional University,Active,Manan,USD,750.0,0.0,750.0,Payment Due,EDO5343,2024-08-21
+Omondi,Uche,+260081851818,Zambia,Manipal University,On Hold,Priya,USD,750.0,367.0,383.0,Payment Due,EDO4822,2026-06-07
+Binta,Zulu,,Cameroon,Srm Chennai,Enrolled,Abdul,USD,750.0,750.0,0.0,No Payment Due,EDO7055,2026-10-14
+Kariuki,Barry,,Zimbabwe,Sharda University,Active,Vivek,USD,937.5,937.5,0.0,No Payment Due,EDO8060,2026-11-29
+Ibrahim,Wanjiru,+265997758073,Malawi,Sharda University,Enrolled,Priya,USD,562.5,399.025,163.47500000000002,Payment Due,EDO6681,2025-06-02
+Nomsa,Mutua,+260844537854,Zambia,Amity University,Pending,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO8434,2025-12-19
+Ngozi,Diallo,,Kenya,Srm Chennai,Pending,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO5740,2026-09-29
+Grace,Banda,,Zambia,Upes,Pending,Akshay,USD,3000.0,206.0,2794.0,Payment Due,EDO3639,2026-06-15
+Wanjiru,Diop,+265811629644,Malawi,Manipal University,Pending,Manan,USD,2500.0,525.0,1975.0,Payment Due,EDO8580,2026-03-31
+Hope,Kebede,+254138899873,Kenya,Srm Chennai,In Progress,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO7976,2025-05-06
+Emmanuel,Owusu,+267432121130,Botswana,Srm University,Waitlisted,Not Assigned,USD,937.5,769.575,167.92499999999995,Payment Due,EDO8588,2024-10-24
+Kofi,Mumba,+251408274040,Ethiopia,Manipal University,Active,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO2770,2024-03-18
+Zara,Obi,+265145142198,Malawi,Srm University,Dropped,Mayank,USD,937.5,937.5,0.0,No Payment Due,EDO6500,2024-12-14
+Victor,Gyasi,256319559100,Uganda,Lovely Professional University,Enrolled,Unknown,USD,750.0,750.0,0.0,No Payment Due,EDO6939,2026-11-27
+Ibrahim,Fall,785562711,South Africa,,Applied,Mayank,USD,3000.0,0.0,3000.0,Payment Due,EDO1548,2025-05-12
+Nomsa,Obi,+254575734964,Kenya,Lpu,On Hold,Manan,USD,1000.0,1000.0,0.0,No Payment Due,EDO5845,2025-12-13
+Adaeze,Tembo,+263386036001,Zimbabwe,Chitkara University,Waitlisted,Mayank,USD,2500.0,2500.0,0.0,No Payment Due,EDO7717,2024-04-08
+Nkechi,Alemu,+27059303663,South Africa,Amity Noida,Enrolled,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO7377,2025-06-05
+Victor,Abebe,+264811130468,Namibia,Manipal University,Applied,Akshay,USD,750.0,64.0,686.0,Payment Due,EDO3776,2024-06-11
+Daniel,,+255077654941,Tanzania,Amity Noida,Active,Akshay,USD,1500.0,1500.0,0.0,No Payment Due,EDO1475,2024-12-06
+Isaac,Annan,+263146697590,Zimbabwe,Srm University,Pending,Priya,USD,2000.0,0.0,2000.0,Payment Due,EDO8165,2024-04-23
+Joy,Tembo,,Botswana,Srm University,Waitlisted,Akshay,USD,1500.0,455.0,1045.0,Payment Due,EDO6609,2024-12-26
+Hope,Tadesse,+233936741903,Ghana,Vit University,Inactive,Mayank,USD,2500.0,0.0,2500.0,Payment Due,EDO7284,2024-07-30
+Sipho,Mokoena,+267973448559,Botswana,Lpu,Dropped,Priya,USD,2500.0,2500.0,0.0,No Payment Due,EDO4667,2026-05-26
+Ngozi,Tesfaye,+255270933708,Tanzania,Bennett University,Dropped,Akshay,USD,562.5,127.075,435.425,Payment Due,EDO9975,2024-02-11
+Daniel,Adeyemi,578876473,Rwanda,Lovely Professional University,Pending,Priya,USD,2500.0,1411.0,1089.0,Payment Due,EDO7085,2025-01-18
+Moses,Adeyemi,+256326389907,Uganda,Manipal University,Deferred,Manan,USD,2500.0,148.0,2352.0,Payment Due,EDO5406,2025-07-25
+Lebo,Appiah,+263298856440,Zimbabwe,,Enrolled,Manan,USD,1000.0,596.0,404.0,Payment Due,EDO7552,2025-04-04
+Blessing,Mabaso,+265555426635,Malawi,Lpu,Active,Mayank,USD,3000.0,851.0,2149.0,Payment Due,EDO8833,2026-09-26
+Hassan,Haile,519277772,Tanzania,Bennett University,Enrolled,Priya,USD,750.0,135.0,615.0,Payment Due,EDO9786,2026-12-25
+Ade,,,Cameroon,Srm University,Waitlisted,Vivek,USD,2500.0,469.0,2031.0,Payment Due,EDO3597,2024-03-11
+Peace,Alemu,+237828600165,Cameroon,Sharda University,Waitlisted,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO4495,2026-04-13
+Otieno,Mwale,+255578009146,Tanzania,Srm Chennai,Applied,Not Assigned,USD,1000.0,156.0,844.0,Payment Due,EDO1295,2026-05-13
+Musa,Annan,+251448935670,Ethiopia,Lpu,Enrolled,Not Found,USD,3000.0,3000.0,0.0,No Payment Due,EDO1255,2025-04-06
+Wanjiru,Tesfaye,+237420470724,Cameroon,Upes,Deferred,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO8803,2024-06-14
+Victor,Kebede,612729410,Ethiopia,Lovely Professional University,Active,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO1118,2024-01-16
+Sade,Tembo,+251246559472,Ethiopia,Amity Noida,Dropped,Unknown,USD,562.5,69.45,493.05,Payment Due,EDO1303,2026-01-26
+Kamau,Phiri,+256022793612,Uganda,Srm University,On Hold,Vivek,USD,750.0,158.0375,591.9625,Payment Due,EDO5162,2026-11-07
+Otieno,Sithole,583345213,Kenya,Upes,Pending,Abdul,USD,562.5,157.925,404.575,Payment Due,EDO5104,2025-01-09
+Hope,Tesfaye,,Nigeria,Lovely Professional University,Dropped,Not Assigned,USD,750.0,0.0,750.0,Payment Due,EDO1172,2024-08-12
+Musa,Omondi,787845546,Cameroon,Bennett University,Waitlisted,Mayank,USD,1000.0,142.0,858.0,Payment Due,EDO7391,2024-03-27
+Chisom,Kariuki,+27956233050,South Africa,Manipal University,Enrolled,Vivek,USD,3000.0,3000.0,0.0,No Payment Due,EDO3464,2025-09-05
+Emeka,Diop,+264595672730,Namibia,Bennett University,Inactive,Abdul,USD,3000.0,0.0,3000.0,Payment Due,EDO5202,2024-09-26
+Aminata,Gyasi,+265239946420,Malawi,Upes,Active,Abdul,USD,1000.0,0.0,1000.0,Payment Due,EDO4419,2024-04-20
+Kariuki,Mabaso,+265159785133,Malawi,Srm University,Active,Abdul,USD,937.5,937.5,0.0,No Payment Due,EDO3441,2026-06-13
+Victor,Kamau,+250735249445,Rwanda,Chitkara University,Pending,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO9660,2026-10-16
+Tendai,Njoroge,+265165834023,Malawi,Upes,Dropped,Vivek,USD,2500.0,690.0,1810.0,Payment Due,EDO5798,2025-08-05
+Ruth,Njoroge,416635216,Tanzania,Vit University,Waitlisted,Mayank,USD,750.0,37.7,712.3,Payment Due,EDO6102,2026-06-27
+Nia,Dike,+237492390323,Cameroon,Upes,Pending,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO5727,2026-12-02
+Hassan,Adeyemi,+234432315970,Nigeria,Bennett University,Waitlisted,Akshay,USD,1000.0,1000.0,0.0,No Payment Due,EDO5712,2025-04-24
+Aminata,Mthembu,237263415551,Cameroon,Lpu,On Hold,Akshay,USD,2000.0,2000.0,0.0,No Payment Due,EDO5013,2025-04-29
+Kofi,Abebe,+255385128897,Tanzania,Amity University,Pending,Priya,USD,750.0,78.0,672.0,Payment Due,EDO3883,2026-08-02
+Njoroge,Okeke,,Nigeria,Vit University,Inactive,Akshay,USD,750.0,386.0,364.0,Payment Due,EDO6636,2026-03-29
+Nkechi,Tadesse,+234229449303,Nigeria,Amity University,In Progress,Priya,USD,750.0,106.1,643.9,Payment Due,EDO9395,2025-10-17
+Halima,Banda,,Nigeria,Srm University,Enrolled,Mayank,USD,1000.0,1000.0,0.0,No Payment Due,EDO6795,2024-12-25
+Fatima,Khumalo,256172559229,Uganda,Chitkara University,Waitlisted,Mayank,USD,2500.0,2500.0,0.0,No Payment Due,EDO6551,2025-12-31
+Abraham,Kapinga,+233516505586,Ghana,Sharda University,Pending,Mayank,USD,3000.0,0.0,3000.0,Payment Due,EDO9377,2024-01-01
+Moses,Asante,,Rwanda,Lovely Professional University,Enrolled,Vivek,USD,562.5,163.275,399.225,Payment Due,EDO1840,2026-06-13
+Abena,Fall,+255434588783,Tanzania,Srm University,Enrolled,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO1291,2024-08-21
+Kemi,Diallo,+255727085211,Tanzania,Lovely Professional University,Enrolled,Akshay,USD,750.0,46.8625,703.1375,Payment Due,EDO6252,2026-06-27
+Emeka,Kariuki,+255404398036,Tanzania,,Pending,Priya,USD,2500.0,0.0,2500.0,Payment Due,EDO5150,2026-05-28
+Joy,Mbewe,+264433811157,Namibia,Bennett University,Enrolled,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO5171,2024-09-23
+Otieno,Cele,+237819081535,Cameroon,Srm University,Enrolled,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO4917,2025-06-05
+Blessing,Mumba,+267632002904,Botswana,Lovely Professional University,Active,Unknown,USD,937.5,198.25,739.25,Payment Due,EDO6089,2025-03-13
+Yemi,Okeke,237890895974,Cameroon,Vit University,Waitlisted,Mayank,USD,1000.0,105.0,895.0,Payment Due,EDO8145,2025-08-03
+Otieno,Annan,+251304530781,Ethiopia,Amity University,Enrolled,Manan,USD,750.0,0.0,750.0,Payment Due,EDO4310,2025-08-11
+Kemi,Annan,+255948227722,Tanzania,Vit University,Deferred,Mayank,USD,1000.0,266.0,734.0,Payment Due,EDO5409,2025-04-21
+Ebuka,Nkosi,253195418,Cameroon,Manipal University,Inactive,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO7528,2024-07-23
+Peace,Mwangi,+234539603717,Nigeria,Lpu,In Progress,Abdul,USD,3000.0,786.0,2214.0,Payment Due,EDO7171,2025-02-05
+Tunde,Eze,+263562575422,Zimbabwe,Bennett University,Applied,Mayank,USD,1000.0,275.0,725.0,Payment Due,EDO8502,2025-10-16
+Joy,Mumba,,Ghana,Manipal University,Pending,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO5763,2025-10-27
+Grace,Mensah,+233024531772,Ghana,Lpu,Active,Mayank,USD,3000.0,728.0,2272.0,Payment Due,EDO5842,2026-01-01
+Aminata,Adjei,,Zimbabwe,,Active,Not Found,USD,2500.0,1824.0,676.0,Payment Due,EDO5005,2026-01-08
+Moses,Tadesse,+250748861694,Rwanda,,Enrolled,Priya,USD,1500.0,1500.0,0.0,No Payment Due,EDO3512,2025-05-19
+Fatima,Wanjiru,,Rwanda,Sharda University,In Progress,Mayank,USD,2500.0,1771.0,729.0,Payment Due,EDO1445,2025-08-22
+Hassan,Okeke,644353806,South Africa,Chitkara University,Pending,Vivek,USD,1500.0,68.0,1432.0,Payment Due,EDO9925,2025-11-21
+Nomsa,Mvula,+260640446027,Zambia,Sharda University,Pending,Priya,USD,750.0,0.0,750.0,Payment Due,EDO1566,2024-04-06
+Aisha,Bekele,705831392,Botswana,Srm University,Waitlisted,Priya,USD,3000.0,3000.0,0.0,No Payment Due,EDO7865,2024-11-02
+Chisom,Diallo,+260335576110,Zambia,Amity Noida,Deferred,Akshay,USD,1500.0,0.0,1500.0,Payment Due,EDO3451,2026-07-05
+Rutendo,Nkosi,+27339063120,South Africa,Bennett University,Waitlisted,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO2471,2026-06-20
+Omondi,Zulu,+237845435102,Cameroon,Amity Noida,Active,Abdul,USD,1500.0,0.0,1500.0,Payment Due,EDO3183,2024-02-19
+Ade,Kapinga,+27505591609,South Africa,Upes,Enrolled,Unknown,USD,562.5,43.225,519.275,Payment Due,EDO7276,2025-03-23
+Grace,Otieno,+267100907885,Botswana,Amity Noida,Waitlisted,Mayank,USD,2000.0,0.0,2000.0,Payment Due,EDO1955,2024-07-01
+Solomon,Diallo,911555612,Zimbabwe,Vit University,Applied,Vivek,USD,562.5,562.5,0.0,No Payment Due,EDO1341,2026-12-22
+Nkechi,Ndlovu,+233238736286,Ghana,,Active,Abdul,USD,3000.0,892.0,2108.0,Payment Due,EDO6161,2025-02-13
+Linet,Tembo,+260936434380,Zambia,Amity University,On Hold,Mayank,USD,1500.0,62.0,1438.0,Payment Due,EDO4050,2026-03-16
+Mutua,,+254096936999,Kenya,Srm University,In Progress,Akshay,USD,937.5,136.175,801.325,Payment Due,EDO9350,2025-12-14
+Mutua,Eze,55897370,Nigeria,,Enrolled,Vivek,USD,2500.0,1344.0,1156.0,Payment Due,EDO3581,2024-04-03
+Binta,Kariuki,,Namibia,Amity University,On Hold,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO2588,2024-11-12
+Chisom,Mumba,256221706484,Uganda,Chitkara University,Pending,Vivek,USD,1000.0,0.0,1000.0,Payment Due,EDO7219,2026-01-02
+Ade,Obi,+267327107744,Botswana,,Active,Vivek,USD,2500.0,1985.0,515.0,Payment Due,EDO4743,2024-07-17
+Rutendo,Barry,+250984932405,Rwanda,Chitkara University,Enrolled,Mayank,USD,937.5,0.0,937.5,Payment Due,EDO2640,2024-03-12
+Nia,Camara,,Malawi,Vit University,On Hold,Manan,USD,562.5,0.0,562.5,Payment Due,EDO4544,2025-04-04
+Tendai,Balde,+267983945352,Botswana,Amity Noida,Dropped,Abdul,USD,562.5,47.5375,514.9625,Payment Due,EDO2580,2024-10-04
+Hassan,Diallo,256086916324,Uganda,Srm Chennai,Pending,Not Found,USD,750.0,498.475,251.52499999999998,Payment Due,EDO1512,2026-10-17
+Yemi,Dlamini,,Ethiopia,Srm Chennai,Enrolled,Vivek,USD,750.0,49.0,701.0,Payment Due,EDO1701,2026-06-11
+Olumide,Camara,+255777846306,Tanzania,Manipal University,Active,Abdul,USD,3000.0,541.0,2459.0,Payment Due,EDO2876,2026-02-15
+Fatima,Otieno,+27949142274,South Africa,Chitkara University,Pending,Abdul,USD,2500.0,1037.0,1463.0,Payment Due,EDO6658,2026-12-01
+Amara,Tesfaye,237477967390,Cameroon,Manipal University,Inactive,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO3969,2026-11-25
+Omondi,Mwangi,+256638273444,Uganda,Lovely Professional University,Enrolled,Vivek,USD,562.5,88.4625,474.0375,Payment Due,EDO6650,2024-05-10
+Nomsa,Ndiaye,197941521,Ethiopia,Vit University,Enrolled,Akshay,USD,750.0,478.375,271.625,Payment Due,EDO8603,2025-12-26
+Omar,Mbewe,+263973687371,Zimbabwe,,On Hold,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO6000,2025-04-23
+Kariuki,Banda,,Zimbabwe,Amity Noida,Dropped,Akshay,USD,937.5,218.9375,718.5625,Payment Due,EDO9780,2024-11-02
+Victor,Nwosu,+265548931728,Malawi,Manipal University,Enrolled,Manan,USD,2500.0,494.0,2006.0,Payment Due,EDO4196,2024-05-30
+Blessing,Adjei,+255825053980,Tanzania,Lpu,Active,Not Found,USD,1500.0,1500.0,0.0,No Payment Due,EDO8121,2025-09-20
+Nomsa,Zulu,+255909173869,Tanzania,Chitkara University,Applied,Mayank,USD,562.5,95.725,466.775,Payment Due,EDO2827,2026-05-12
+Omondi,Boateng,439109669,Cameroon,Manipal University,Pending,Abdul,USD,2500.0,854.0,1646.0,Payment Due,EDO9575,2025-10-08
+Abena,Ndiaye,,Ghana,Upes,Enrolled,Abdul,USD,562.5,161.6,400.9,Payment Due,EDO2751,2024-03-30
+Halima,Dlamini,256891425609,Uganda,Lpu,Enrolled,Mayank,USD,937.5,937.5,0.0,No Payment Due,EDO2212,2026-12-31
+Faith,Camara,+233076291229,Ghana,Amity Noida,Pending,Unknown,USD,562.5,562.5,0.0,No Payment Due,EDO3513,2024-08-12
+Moses,Tesfaye,,Cameroon,Amity Noida,Pending,Priya,USD,1500.0,1500.0,0.0,No Payment Due,EDO7908,2024-01-09
+Isaac,Haile,327370086,Tanzania,Chitkara University,Active,Not Found,USD,3000.0,1469.0,1531.0,Payment Due,EDO4159,2026-11-20
+Tunde,Tadesse,,Uganda,,Enrolled,Abdul,USD,750.0,630.45,119.54999999999995,Payment Due,EDO9224,2025-04-10
+Daniel,Appiah,+233214090595,Ghana,Amity Noida,Pending,Unknown,USD,2000.0,478.0,1522.0,Payment Due,EDO3057,2026-11-23
+Ruth,Ndlovu,,Kenya,,On Hold,Unknown,USD,937.5,598.0125,339.48749999999995,Payment Due,EDO5600,2026-12-20
+Aisha,Cele,+263773985702,Zimbabwe,Amity Noida,Enrolled,Not Assigned,USD,750.0,750.0,0.0,No Payment Due,EDO1052,2025-11-28
+Halima,Owusu,626949898,Nigeria,Amity Noida,Enrolled,Abdul,USD,1500.0,1234.0,266.0,Payment Due,EDO1613,2024-08-18
+Mwangi,Adeyemi,195396193,Namibia,Amity Noida,Pending,Vivek,USD,750.0,192.6,557.4,Payment Due,EDO4002,2026-05-09
+Hope,,792446578,Namibia,Upes,Enrolled,Priya,USD,2000.0,210.0,1790.0,Payment Due,EDO6661,2026-02-19
+Victor,Mvula,+251254906257,Ethiopia,,Deferred,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO7866,2026-08-02
+Kariuki,Kapinga,+264671945008,Namibia,Manipal University,On Hold,Mayank,USD,937.5,937.5,0.0,No Payment Due,EDO9587,2026-11-19
+Blessing,Asante,+251955268728,Ethiopia,Lovely Professional University,In Progress,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO2443,2026-10-05
+Halima,Camara,+265343840427,Malawi,Amity University,In Progress,Abdul,USD,2500.0,442.0,2058.0,Payment Due,EDO6026,2025-12-21
+Grace,Ndiaye,+233003235129,Ghana,Lpu,On Hold,Abdul,USD,2000.0,569.0,1431.0,Payment Due,EDO6253,2026-04-01
+Halima,Kariuki,586869166,Tanzania,Amity University,Enrolled,Mayank,USD,937.5,0.0,937.5,Payment Due,EDO7551,2026-06-06
+Otieno,,+267168429364,Botswana,Vit University,Active,Vivek,USD,3000.0,496.0,2504.0,Payment Due,EDO6235,2026-10-20
+Faith,,,Cameroon,Amity University,Applied,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO7466,2024-04-09
+Olumide,Nkosi,+267316866689,Botswana,Manipal University,Waitlisted,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO1113,2024-09-10
+Solomon,Mvula,,Nigeria,Amity University,Enrolled,Not Found,USD,937.5,593.6625,343.8375,Payment Due,EDO3853,2025-03-03
+Aisha,Uche,+263337154800,Zimbabwe,Srm Chennai,Pending,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO3158,2026-05-27
+Kamau,Zungu,,Zambia,Srm University,Inactive,Akshay,USD,3000.0,534.0,2466.0,Payment Due,EDO1615,2026-11-16
+Joy,Mutua,+265394193990,Malawi,,Dropped,Vivek,USD,750.0,59.0,691.0,Payment Due,EDO8654,2025-10-13
+Njoroge,Appiah,609232092,Uganda,Manipal University,Enrolled,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO3037,2026-05-13
+Chidi,Fall,+254785619819,Kenya,Lovely Professional University,Enrolled,Vivek,USD,750.0,413.0,337.0,Payment Due,EDO9498,2026-11-24
+Samuel,Nwachukwu,+267774341040,Botswana,Bennett University,Deferred,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO6857,2026-01-08
+Kariuki,Mumba,+27701680287,South Africa,Vit University,Deferred,Unknown,USD,750.0,0.0,750.0,Payment Due,EDO3932,2025-06-23
+Tendai,Phiri,,Ethiopia,Vit University,On Hold,Akshay,USD,3000.0,3000.0,0.0,No Payment Due,EDO4401,2026-12-08
+Nkechi,Sithole,+267048803452,Botswana,Amity Noida,Pending,Akshay,USD,562.5,0.0,562.5,Payment Due,EDO4793,2026-10-23
+Hope,Nwachukwu,,Botswana,Manipal University,Enrolled,Manan,USD,1000.0,1000.0,0.0,No Payment Due,EDO6228,2025-01-29
+Lebo,Ndiaye,,Tanzania,Sharda University,Enrolled,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO6659,2025-09-28
+Kwame,Mvula,+251282576230,Ethiopia,Bennett University,Enrolled,Manan,USD,1000.0,175.0,825.0,Payment Due,EDO9060,2025-08-25
+Thabo,Nwosu,332150952,Ghana,Bennett University,Enrolled,Vivek,USD,937.5,937.5,0.0,No Payment Due,EDO2224,2025-06-03
+Wanjiru,Abebe,+250195908350,Rwanda,Upes,Dropped,Akshay,USD,937.5,0.0,937.5,Payment Due,EDO5256,2025-04-15
+Nkechi,Eze,+234672474258,Nigeria,Vit University,Enrolled,Manan,USD,562.5,562.5,0.0,No Payment Due,EDO2394,2024-12-23
+Ruth,Khumalo,+233132078160,Ghana,Amity Noida,Pending,Manan,USD,1500.0,1500.0,0.0,No Payment Due,EDO5324,2025-10-03
+Amira,Cele,112330359,South Africa,Sharda University,Enrolled,Not Assigned,USD,1500.0,642.0,858.0,Payment Due,EDO7157,2024-09-28
+Amara,Diallo,+234434381115,Nigeria,Vit University,In Progress,Not Found,USD,2000.0,333.0,1667.0,Payment Due,EDO9766,2026-07-21
+Amara,Asante,+254036725265,Kenya,Bennett University,Waitlisted,Abdul,USD,3000.0,773.0,2227.0,Payment Due,EDO1105,2025-12-19
+Kofi,Asante,+267604125108,Botswana,Amity Noida,Inactive,Vivek,USD,937.5,937.5,0.0,No Payment Due,EDO1320,2024-09-24
+Kofi,,+255195237600,Tanzania,Lovely Professional University,In Progress,Not Found,USD,937.5,640.925,296.57500000000005,Payment Due,EDO3543,2025-11-20
+Isaac,Dike,+256342328603,Uganda,Vit University,Enrolled,Abdul,USD,562.5,0.0,562.5,Payment Due,EDO8433,2024-08-12
+Fatima,Owusu,,Botswana,Lpu,Dropped,Priya,USD,3000.0,459.0,2541.0,Payment Due,EDO4786,2025-03-24
+Ebuka,Mwangi,,Cameroon,Srm University,Waitlisted,Vivek,USD,750.0,261.5875,488.4125,Payment Due,EDO8274,2025-11-06
+Ade,Banda,+250155442951,Rwanda,Manipal University,Enrolled,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO1711,2026-02-02
+Ebuka,Banda,+27699198895,South Africa,Lovely Professional University,Active,Akshay,USD,562.5,320.8125,241.6875,Payment Due,EDO7024,2025-06-30
+Aisha,Nwachukwu,,Namibia,Srm University,Inactive,Vivek,USD,750.0,750.0,0.0,No Payment Due,EDO1078,2024-10-24
+Nomsa,Bekele,+27984896326,South Africa,Lpu,In Progress,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO8498,2026-07-25
+Moses,Achieng,447584927,Rwanda,Srm University,Enrolled,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO4599,2025-03-20
+Ibrahim,,+234285664109,Nigeria,Srm University,Active,Priya,USD,1000.0,0.0,1000.0,Payment Due,EDO6150,2025-09-25
+Solomon,Mwangi,192870168,Rwanda,,Enrolled,Vivek,USD,3000.0,173.0,2827.0,Payment Due,EDO7485,2026-06-26
+Aminata,Girma,+265177983624,Malawi,Srm University,In Progress,Akshay,USD,2000.0,0.0,2000.0,Payment Due,EDO8114,2025-02-28
+Kwame,Eze,+250078922475,Rwanda,Lpu,Active,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO9554,2026-11-25
+Aisha,Diop,+233773658082,Ghana,Amity University,On Hold,Vivek,USD,562.5,37.225,525.275,Payment Due,EDO4215,2024-02-28
+Halima,Appiah,+263450868844,Zimbabwe,Srm University,On Hold,Abdul,USD,1500.0,1165.0,335.0,Payment Due,EDO7223,2026-04-26
+Hope,Obi,120266710,Kenya,Lovely Professional University,Enrolled,Vivek,USD,2500.0,1061.0,1439.0,Payment Due,EDO4582,2025-06-07
+Tunde,Owusu,+27415338219,South Africa,Srm Chennai,On Hold,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO8148,2025-04-03
+Rutendo,Gyasi,786066484,Tanzania,Lpu,Active,Manan,USD,2000.0,361.0,1639.0,Payment Due,EDO3742,2024-07-19
+Peace,Mensah,+27690386261,South Africa,Lpu,Pending,Priya,USD,937.5,0.0,937.5,Payment Due,EDO3909,2026-08-01
+Mwangi,Nwosu,+233636168542,Ghana,Amity Noida,Waitlisted,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO6725,2024-08-15
+Aisha,Cele,,Ethiopia,Chitkara University,Enrolled,Not Assigned,USD,562.5,102.0875,460.4125,Payment Due,EDO8142,2024-02-29
+Linet,Girma,,Ghana,Upes,Inactive,Akshay,USD,2000.0,375.0,1625.0,Payment Due,EDO7113,2024-08-14
+Chisom,Owino,+237341385448,Cameroon,Lovely Professional University,In Progress,Manan,USD,1500.0,28.0,1472.0,Payment Due,EDO1620,2024-05-22
+Kwame,Tembo,+265797122350,Malawi,Vit University,On Hold,Manan,USD,2500.0,526.0,1974.0,Payment Due,EDO9188,2025-03-11
+Wanjiru,Diop,+267601387915,Botswana,Sharda University,Pending,Mayank,USD,750.0,314.0,436.0,Payment Due,EDO8286,2025-03-08
+Kwame,Banda,,Kenya,Lovely Professional University,Deferred,Akshay,USD,937.5,0.0,937.5,Payment Due,EDO9591,2024-02-18
+Mutua,Nkosi,+260203545381,Zambia,Sharda University,Pending,Manan,USD,937.5,651.9875,285.51250000000005,Payment Due,EDO6517,2025-04-29
+Emmanuel,Bekele,+237520616112,Cameroon,Sharda University,Deferred,Mayank,USD,562.5,0.0,562.5,Payment Due,EDO3109,2024-09-04
+Joy,Diallo,,Malawi,Chitkara University,Inactive,Abdul,USD,3000.0,0.0,3000.0,Payment Due,EDO4832,2026-11-01
+Aisha,Appiah,+264318757872,Namibia,Srm University,On Hold,Priya,USD,1000.0,49.0,951.0,Payment Due,EDO9702,2025-03-23
+Omondi,,+234822163982,Nigeria,Amity Noida,Dropped,Not Found,USD,750.0,252.0,498.0,Payment Due,EDO1166,2026-05-23
+Omondi,Asante,863932533,South Africa,Srm Chennai,Pending,Abdul,USD,1000.0,61.0,939.0,Payment Due,EDO1092,2024-10-23
+Nkechi,Owusu,+251992779117,Ethiopia,Lpu,Pending,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO1542,2025-06-21
+Abena,Camara,+254319955630,Kenya,,Enrolled,Abdul,USD,562.5,0.0,562.5,Payment Due,EDO4247,2024-09-27
+Femi,Kebede,+233571070722,Ghana,Sharda University,Active,Not Assigned,USD,1500.0,920.0,580.0,Payment Due,EDO3944,2025-04-23
+Wanjiru,Sithole,+254360206969,Kenya,Amity University,Enrolled,Priya,USD,1500.0,59.0,1441.0,Payment Due,EDO5266,2024-08-22
+Femi,Okeke,869277266,Nigeria,,In Progress,Not Found,USD,750.0,432.0,318.0,Payment Due,EDO4291,2026-04-28
+Fatima,Kariuki,+251478092929,Ethiopia,Chitkara University,Waitlisted,Unknown,USD,1000.0,1000.0,0.0,No Payment Due,EDO2490,2024-01-12
+Amara,Alemu,+250897884021,Rwanda,Amity Noida,Dropped,Vivek,USD,3000.0,1543.0,1457.0,Payment Due,EDO9095,2025-08-06
+Wanjiru,Kebede,+267900302769,Botswana,Lovely Professional University,Active,Not Found,USD,2000.0,2000.0,0.0,No Payment Due,EDO5910,2024-07-12
+Tunde,Okafor,+265060030890,Malawi,Amity University,Dropped,Not Assigned,USD,2500.0,0.0,2500.0,Payment Due,EDO8234,2024-08-24
+Nia,Kariuki,237269194484,Cameroon,Srm Chennai,Pending,Akshay,USD,1000.0,405.0,595.0,Payment Due,EDO4023,2026-01-03
+Yusuf,Balde,+263631425939,Zimbabwe,Lovely Professional University,Active,Mayank,USD,750.0,750.0,0.0,No Payment Due,EDO9454,2025-03-12
+Kamau,Njoroge,+251728616072,Ethiopia,Upes,Pending,Unknown,USD,562.5,364.35,198.14999999999998,Payment Due,EDO7975,2024-04-18
+Ruth,Uche,+234863663889,Nigeria,Manipal University,Deferred,Vivek,USD,2500.0,101.0,2399.0,Payment Due,EDO7530,2024-02-21
+Mutua,Owusu,,Tanzania,Srm University,Dropped,Vivek,USD,750.0,42.6625,707.3375,Payment Due,EDO8145,2025-05-02
+Adaeze,Mbewe,+260247185824,Zambia,Upes,Enrolled,Abdul,USD,750.0,89.0,661.0,Payment Due,EDO8246,2026-07-21
+Daniel,Wanjiru,+260942151808,Zambia,Upes,Enrolled,Priya,USD,937.5,576.4,361.1,Payment Due,EDO6401,2026-03-01
+Ngozi,Barry,,Botswana,Vit University,Enrolled,Mayank,USD,750.0,425.0,325.0,Payment Due,EDO4575,2025-08-26
+Isaac,Mabaso,+251615514353,Ethiopia,Sharda University,Enrolled,Manan,USD,2500.0,2500.0,0.0,No Payment Due,EDO7805,2026-02-09
+Kamau,Achieng,,Uganda,Amity Noida,Dropped,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO3843,2025-02-01
+Rutendo,Banda,+27545383694,South Africa,Srm University,Pending,Akshay,USD,1500.0,1500.0,0.0,No Payment Due,EDO3331,2024-04-01
+Mwangi,Haile,+255103552675,Tanzania,Sharda University,Enrolled,Vivek,USD,2000.0,423.0,1577.0,Payment Due,EDO6342,2024-09-12
+Sipho,Kebede,+233107597411,Ghana,Amity Noida,Active,Unknown,USD,2000.0,1376.0,624.0,Payment Due,EDO7689,2026-03-18
+Lebo,Mbewe,+255211537480,Tanzania,Upes,Active,Priya,USD,750.0,87.5125,662.4875,Payment Due,EDO5394,2026-09-02
+Olumide,Mensah,+256911537959,Uganda,Sharda University,Active,Not Found,USD,3000.0,373.0,2627.0,Payment Due,EDO4615,2026-08-03
+Linet,Phiri,,Kenya,Lpu,Enrolled,Akshay,USD,3000.0,728.0,2272.0,Payment Due,EDO8612,2024-05-30
+Kariuki,Cele,+27999333898,South Africa,Srm Chennai,Inactive,Priya,USD,562.5,475.475,87.02499999999998,Payment Due,EDO8789,2024-10-28
+Aisha,Ndlovu,+250178414587,Rwanda,Lpu,Deferred,Not Found,USD,750.0,490.0,260.0,Payment Due,EDO2645,2024-07-23
+Tunde,Ampofo,,Uganda,Lpu,Pending,Priya,USD,937.5,362.025,575.475,Payment Due,EDO2220,2026-03-22
+Kofi,Boateng,+27119191508,South Africa,Sharda University,Pending,Akshay,USD,1500.0,272.0,1228.0,Payment Due,EDO9153,2026-03-11
+Sipho,Okeke,+255272442317,Tanzania,Chitkara University,Inactive,Mayank,USD,3000.0,2292.0,708.0,Payment Due,EDO6794,2026-08-01
+Amara,Achieng,+250588357628,Rwanda,Sharda University,Pending,Unknown,USD,1500.0,427.0,1073.0,Payment Due,EDO8412,2026-05-20
+Wanjiru,Girma,+254417649069,Kenya,Srm University,Dropped,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO5289,2025-03-19
+Grace,Barry,,South Africa,,Inactive,Abdul,USD,562.5,40.0875,522.4125,Payment Due,EDO5978,2025-08-18
+Kofi,Adjei,796400142,Zambia,,On Hold,Not Assigned,USD,1500.0,0.0,1500.0,Payment Due,EDO9243,2024-12-23
+Ruth,Tadesse,+233742256828,Ghana,Srm Chennai,Deferred,Priya,USD,937.5,0.0,937.5,Payment Due,EDO3438,2025-09-08
+Kofi,Mabaso,+255653238979,Tanzania,,Enrolled,Akshay,USD,3000.0,3000.0,0.0,No Payment Due,EDO2370,2024-08-31
+Grace,,+27563899277,South Africa,Bennett University,In Progress,Mayank,USD,562.5,31.3,531.2,Payment Due,EDO4772,2026-06-21
+Halima,Fall,+237941945442,Cameroon,Upes,Active,Unknown,USD,1500.0,74.0,1426.0,Payment Due,EDO6570,2024-02-20
+Fatima,Annan,,Zimbabwe,Manipal University,In Progress,Mayank,USD,2000.0,575.0,1425.0,Payment Due,EDO5911,2026-09-18
+Yemi,Mensah,672028421,Nigeria,,Enrolled,Priya,USD,2500.0,540.0,1960.0,Payment Due,EDO2312,2026-12-06
+Amara,Mutua,+233527152663,Ghana,Manipal University,Active,Unknown,USD,2500.0,2500.0,0.0,No Payment Due,EDO1208,2024-07-31
+Ruth,Wanjiru,+27791257,Cameroon,Srm University,Inactive,Mayank,USD,1500.0,281.0,1219.0,Payment Due,EDO2813,2024-03-12
+Zara,Okafor,+251200529357,Ethiopia,Vit University,Pending,Akshay,USD,937.5,937.5,0.0,No Payment Due,EDO4166,2025-10-17
+Hope,Cele,,Malawi,Bennett University,Deferred,Abdul,USD,2000.0,473.0,1527.0,Payment Due,EDO5694,2026-05-01
+Halima,Uche,+267334382421,Botswana,Lpu,Waitlisted,Priya,USD,1500.0,217.0,1283.0,Payment Due,EDO7396,2024-03-31
+Yusuf,Mwangi,+263799951013,Zimbabwe,Amity University,On Hold,Abdul,USD,1500.0,335.0,1165.0,Payment Due,EDO1070,2025-01-29
+Rutendo,Alemu,+27514299380,South Africa,Upes,Waitlisted,Abdul,USD,1500.0,262.0,1238.0,Payment Due,EDO3205,2025-01-11
+Hassan,Adeyemi,+234069559291,Nigeria,Bennett University,Waitlisted,Mayank,USD,3000.0,3000.0,0.0,No Payment Due,EDO8140,2024-07-03
+Nia,Phiri,+27942146185,South Africa,Chitkara University,Enrolled,Manan,USD,1500.0,0.0,1500.0,Payment Due,EDO3750,2026-06-07
+Kemi,Kapinga,+233768645159,Ghana,Vit University,Dropped,Vivek,USD,2500.0,107.0,2393.0,Payment Due,EDO9961,2026-03-30
+Tunde,Kariuki,+27912697246,South Africa,Sharda University,Active,Not Assigned,USD,2500.0,2500.0,0.0,No Payment Due,EDO5045,2024-11-16
+Abraham,Mwale,+256940496429,Uganda,Upes,Active,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO5626,2026-03-10
+Omar,Kariuki,,Malawi,Sharda University,Enrolled,Abdul,USD,2500.0,2500.0,0.0,No Payment Due,EDO1980,2024-04-15
+Thabo,Adeyemi,+254200960588,Kenya,Amity University,Waitlisted,Priya,USD,2500.0,2500.0,0.0,No Payment Due,EDO2448,2025-04-02
+Esther,Zulu,+234890348924,Nigeria,Manipal University,Enrolled,Manan,USD,2000.0,1480.0,520.0,Payment Due,EDO4123,2026-07-10
+Ade,,+254397168073,Kenya,Srm Chennai,Enrolled,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO3930,2024-07-25
+Sipho,Abebe,+233890194409,Ghana,Bennett University,Pending,Unknown,USD,750.0,238.0,512.0,Payment Due,EDO9700,2026-01-23
+Ibrahim,Dike,+250661916113,Rwanda,Vit University,In Progress,Vivek,USD,2500.0,1858.0,642.0,Payment Due,EDO4254,2026-07-31
+Ebuka,Tadesse,+264530465068,Namibia,,Waitlisted,Vivek,USD,3000.0,3000.0,0.0,No Payment Due,EDO2283,2026-12-24
+Aminata,Alemu,+265894996637,Malawi,Lpu,Active,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO2290,2026-07-17
+Sade,Obi,,Kenya,Amity Noida,In Progress,Not Found,USD,562.5,281.525,280.975,Payment Due,EDO8071,2024-09-24
+Grace,Kamau,+267806948755,Botswana,Srm University,Pending,Akshay,USD,937.5,630.85,306.65,Payment Due,EDO9145,2025-06-29
+Ade,,+27689086098,South Africa,Lovely Professional University,Inactive,Priya,USD,1000.0,144.0,856.0,Payment Due,EDO9998,2025-10-07
+Joy,Boateng,,Kenya,Amity Noida,Dropped,Manan,USD,2500.0,1872.0,628.0,Payment Due,EDO1484,2025-01-06
+Kariuki,Kamau,+234454048045,Nigeria,Amity University,Dropped,Akshay,USD,1500.0,610.0,890.0,Payment Due,EDO5656,2024-03-07
+Wanjiru,Wanjiru,,Malawi,Upes,Inactive,Manan,USD,937.5,733.5,204.0,Payment Due,EDO4881,2025-03-26
+Olumide,Adeyemi,619522860,Cameroon,Lpu,Enrolled,Unknown,USD,3000.0,768.0,2232.0,Payment Due,EDO1268,2025-04-17
+Isaac,Toure,+255002786897,Tanzania,Chitkara University,Active,Vivek,USD,937.5,937.5,0.0,No Payment Due,EDO2394,2024-04-14
+Kwame,Owino,,Namibia,Sharda University,Inactive,Abdul,USD,750.0,149.9375,600.0625,Payment Due,EDO4856,2024-07-28
+Moses,Obi,330463716,Ethiopia,Amity University,In Progress,Manan,USD,3000.0,710.0,2290.0,Payment Due,EDO5763,2026-10-05
+Njoroge,Camara,+251262783109,Ethiopia,Vit University,On Hold,Manan,USD,2500.0,713.0,1787.0,Payment Due,EDO1575,2025-04-27
+Grace,,+234063417264,Nigeria,Vit University,In Progress,Manan,USD,562.5,206.625,355.875,Payment Due,EDO3035,2025-01-26
+Linet,Omondi,+251541109578,Ethiopia,Srm University,Applied,Priya,USD,2000.0,2000.0,0.0,No Payment Due,EDO5839,2025-11-18
+Binta,Mabaso,+267100685726,Botswana,Lpu,Inactive,Not Assigned,USD,2000.0,253.0,1747.0,Payment Due,EDO4009,2026-05-25
+Ngozi,Sithole,+27131478170,South Africa,Vit University,Applied,Mayank,USD,1000.0,525.0,475.0,Payment Due,EDO4098,2025-07-15
+Femi,Ndlovu,+255277136609,Tanzania,Amity University,Dropped,Akshay,USD,2000.0,1401.0,599.0,Payment Due,EDO9284,2024-03-24
+Ngozi,Bekele,+260313554271,Zambia,Bennett University,Enrolled,Abdul,USD,3000.0,1484.0,1516.0,Payment Due,EDO7136,2025-12-09
+Victor,,,Malawi,Lpu,Dropped,Manan,USD,2500.0,385.0,2115.0,Payment Due,EDO4288,2026-09-25
+Wanjiru,Cele,+251571087315,Ethiopia,Srm University,Enrolled,Abdul,USD,1000.0,105.0,895.0,Payment Due,EDO3728,2025-08-09
+Mutua,Mutua,125660354,South Africa,Amity University,Inactive,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO5177,2026-04-12
+Faith,Nwachukwu,+250095970997,Rwanda,Bennett University,Active,Not Assigned,USD,562.5,24.7125,537.7875,Payment Due,EDO1781,2024-03-10
+Solomon,,+234646031052,Nigeria,Upes,Pending,Mayank,USD,937.5,0.0,937.5,Payment Due,EDO2820,2025-03-10
+Daniel,Kariuki,723074816,Cameroon,Srm Chennai,Pending,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO6528,2024-05-04
+Faith,,,Zimbabwe,Manipal University,On Hold,Priya,USD,2000.0,0.0,2000.0,Payment Due,EDO5207,2026-04-22
+Chidi,Wanjiru,+250379408433,Rwanda,Lpu,In Progress,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO3749,2026-06-13
+Olumide,Bello,571617495,Ghana,Vit University,Pending,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO1907,2025-04-06
+Solomon,Uche,93412114,Ghana,Sharda University,Pending,Vivek,USD,2500.0,2500.0,0.0,No Payment Due,EDO9441,2024-11-30
+Peace,Alemu,+254229152379,Kenya,Sharda University,Enrolled,Abdul,USD,937.5,0.0,937.5,Payment Due,EDO9754,2024-06-24
+Mwangi,Mabaso,,Ghana,Vit University,Waitlisted,Unknown,USD,2500.0,2500.0,0.0,No Payment Due,EDO3644,2024-04-05
+Grace,Ampofo,855469044,Cameroon,,Pending,Priya,USD,1500.0,178.0,1322.0,Payment Due,EDO1276,2026-11-21
+Thabo,Fall,+264006141787,Namibia,Bennett University,Enrolled,Mayank,USD,750.0,750.0,0.0,No Payment Due,EDO1533,2025-12-04
+Adaeze,Asante,+264337344324,Namibia,Vit University,Inactive,Manan,USD,937.5,157.8625,779.6375,Payment Due,EDO2466,2025-05-28
+Yusuf,Dike,+255740632128,Tanzania,Upes,Pending,Manan,USD,562.5,562.5,0.0,No Payment Due,EDO7299,2025-07-19
+Wanjiru,Mthembu,+254880607529,Kenya,Amity Noida,On Hold,Abdul,USD,562.5,458.1625,104.33749999999998,Payment Due,EDO1914,2025-06-30
+Yemi,Mumba,988872251,Tanzania,Amity Noida,Enrolled,Priya,USD,2000.0,1686.0,314.0,Payment Due,EDO3494,2026-03-18
+Kamau,,+256160004740,Uganda,Bennett University,Dropped,Vivek,USD,562.5,60.4375,502.0625,Payment Due,EDO5070,2024-07-23
+Peace,Fall,+267661730951,Botswana,Chitkara University,Deferred,Abdul,USD,750.0,750.0,0.0,No Payment Due,EDO3551,2025-04-11
+Musa,Kapinga,,Tanzania,Lpu,On Hold,Abdul,USD,937.5,0.0,937.5,Payment Due,EDO3743,2025-02-14
+Aisha,Camara,+263303870989,Zimbabwe,Srm Chennai,Pending,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO9496,2026-12-17
+Abena,,256035867626,Uganda,Bennett University,Applied,Not Found,USD,3000.0,169.0,2831.0,Payment Due,EDO3401,2026-12-24
+Aisha,Kapinga,,Nigeria,Chitkara University,Enrolled,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO3192,2025-09-04
+Ruth,Fall,+260068949808,Zambia,Amity University,Active,Unknown,USD,2500.0,1621.0,879.0,Payment Due,EDO2336,2024-10-26
+Njoroge,Mumba,+237751087693,Cameroon,Bennett University,Dropped,Priya,USD,2500.0,2500.0,0.0,No Payment Due,EDO8258,2024-05-27
+Moses,Boateng,+267767881088,Botswana,,In Progress,Mayank,USD,2000.0,2000.0,0.0,No Payment Due,EDO2012,2024-02-20
+Isaac,Otieno,+27531967259,South Africa,Amity University,Waitlisted,Not Assigned,USD,937.5,937.5,0.0,No Payment Due,EDO5855,2026-06-14
+Omondi,Owusu,+267142942991,Botswana,Lpu,Enrolled,Abdul,USD,750.0,332.1,417.9,Payment Due,EDO6821,2025-09-14
+Isaac,,,Zambia,Amity University,Dropped,Vivek,USD,562.5,562.5,0.0,No Payment Due,EDO3686,2026-07-21
+Halima,Kariuki,509788497,Zimbabwe,Bennett University,Active,Mayank,USD,562.5,58.1625,504.3375,Payment Due,EDO7058,2024-11-29
+Zanele,Nkosi,,Tanzania,Lovely Professional University,Active,Unknown,USD,750.0,533.0,217.0,Payment Due,EDO9219,2026-09-18
+Kemi,Mabaso,+234840175592,Nigeria,Manipal University,Dropped,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO2322,2024-08-18
+Lebo,Mwangi,237258390921,Cameroon,Bennett University,Dropped,Manan,USD,937.5,164.3375,773.1625,Payment Due,EDO2186,2025-06-14
+Emeka,,+264383230862,Namibia,Upes,On Hold,Priya,USD,1500.0,416.0,1084.0,Payment Due,EDO9747,2026-02-15
+Mutua,Nwachukwu,+27130240669,South Africa,Upes,Enrolled,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO5291,2025-09-30
+Samuel,Mabaso,,Cameroon,Amity University,Pending,Akshay,USD,1500.0,1232.0,268.0,Payment Due,EDO7133,2026-04-08
+Tendai,Okeke,,Tanzania,Lovely Professional University,Applied,Akshay,USD,2500.0,2500.0,0.0,No Payment Due,EDO3741,2025-05-14
+Tunde,Kariuki,+264531019516,Namibia,Amity University,On Hold,Vivek,USD,562.5,110.275,452.225,Payment Due,EDO4769,2025-04-02
+Esther,Omondi,+264943438240,Namibia,Srm University,Applied,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO4000,2025-11-14
+Ngozi,Kebede,+255556564622,Tanzania,Chitkara University,Inactive,Manan,USD,2500.0,733.0,1767.0,Payment Due,EDO5133,2026-06-08
+Aminata,,,Cameroon,Vit University,Waitlisted,Abdul,USD,1500.0,281.0,1219.0,Payment Due,EDO2329,2024-05-31
+Chisom,Zulu,818907082,Malawi,Lovely Professional University,Inactive,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO8886,2026-02-09
+Rutendo,Diallo,,Kenya,,Active,Priya,USD,562.5,96.2125,466.2875,Payment Due,EDO5285,2024-10-24
+Zara,Khumalo,+234532869190,Nigeria,Manipal University,Enrolled,Priya,USD,562.5,277.0875,285.4125,Payment Due,EDO2086,2025-09-01
+Otieno,Mutua,+234958999624,Nigeria,Lovely Professional University,Dropped,Manan,USD,1000.0,0.0,1000.0,Payment Due,EDO6037,2025-01-17
+Ruth,Girma,+267249350213,Botswana,Srm Chennai,Dropped,Manan,USD,562.5,562.5,0.0,No Payment Due,EDO2539,2025-11-02
+Blessing,Asante,,South Africa,Lpu,Deferred,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO5786,2024-11-23
+Peace,Barry,+263665657183,Zimbabwe,Vit University,Active,Akshay,USD,1000.0,749.0,251.0,Payment Due,EDO1073,2026-04-28
+Kariuki,Owino,+260448218128,Zambia,Sharda University,Pending,Vivek,USD,562.5,113.325,449.175,Payment Due,EDO9136,2025-03-07
+Femi,Owino,+237743200138,Cameroon,Amity Noida,Pending,Vivek,USD,2000.0,141.0,1859.0,Payment Due,EDO9068,2025-11-27
+Tunde,Okafor,630663407,Malawi,Bennett University,In Progress,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO4639,2024-04-25
+Daniel,Balde,999766023,Namibia,,Inactive,Abdul,USD,3000.0,273.0,2727.0,Payment Due,EDO2722,2025-08-09
+Yemi,Otieno,+265798535061,Malawi,,Pending,Not Found,USD,750.0,173.0,577.0,Payment Due,EDO2435,2025-01-30
+Rutendo,Kapinga,+250758671122,Rwanda,Sharda University,Enrolled,Priya,USD,1000.0,61.0,939.0,Payment Due,EDO3312,2026-10-06
+Omondi,Boateng,+260161616606,Zambia,Srm Chennai,In Progress,Vivek,USD,750.0,319.0,431.0,Payment Due,EDO5413,2024-05-09
+Esther,Toure,,Malawi,Lpu,Inactive,Vivek,USD,1000.0,49.0,951.0,Payment Due,EDO9775,2025-03-08
+Mwangi,Phiri,,Malawi,Srm Chennai,Enrolled,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO7314,2024-07-22
+Ruth,Uche,+255484181009,Tanzania,,Waitlisted,Priya,USD,937.5,0.0,937.5,Payment Due,EDO5224,2024-01-02
+Victor,Khumalo,,Ethiopia,Sharda University,In Progress,Akshay,USD,1500.0,333.0,1167.0,Payment Due,EDO1626,2026-08-13
+Binta,Ampofo,+27464301998,South Africa,Amity University,Waitlisted,Mayank,USD,1000.0,0.0,1000.0,Payment Due,EDO8119,2025-06-27
+Ngozi,Barry,,Uganda,Upes,Active,Mayank,USD,2500.0,2500.0,0.0,No Payment Due,EDO2145,2026-04-23
+Daniel,Nwosu,,South Africa,Manipal University,In Progress,Manan,USD,1000.0,1000.0,0.0,No Payment Due,EDO2826,2025-08-09
+Kariuki,Obi,,Ghana,Amity University,Enrolled,Unknown,USD,2000.0,372.0,1628.0,Payment Due,EDO2589,2024-09-24
+Kwame,Barry,+251473604032,Ethiopia,Manipal University,Active,Abdul,USD,2000.0,2000.0,0.0,No Payment Due,EDO1337,2026-08-21
+Wanjiru,Barry,+264666244947,Namibia,Amity Noida,Dropped,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO7335,2024-03-08
+Amara,,153035731,Tanzania,Lpu,On Hold,Mayank,USD,3000.0,3000.0,0.0,No Payment Due,EDO7111,2024-11-05
+Amara,Kebede,462429956,Malawi,Srm Chennai,Enrolled,Mayank,USD,1000.0,286.0,714.0,Payment Due,EDO1638,2026-11-10
+Ibrahim,Mthembu,+233321076854,Ghana,Lpu,Pending,Mayank,USD,562.5,562.5,0.0,No Payment Due,EDO2213,2024-10-22
+Amira,Dlamini,+263136144543,Zimbabwe,Amity Noida,Enrolled,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO8982,2026-05-21
+Sade,Owusu,+251067367908,Ethiopia,Srm Chennai,In Progress,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO7408,2024-12-29
+Ruth,Khumalo,,Rwanda,Amity University,Active,Vivek,USD,2500.0,1469.0,1031.0,Payment Due,EDO2869,2024-12-22
+Linet,,+267678033525,Botswana,Vit University,Enrolled,Akshay,USD,750.0,540.275,209.72500000000002,Payment Due,EDO4550,2026-10-20
+Emmanuel,Owino,+255378798620,Tanzania,Lovely Professional University,Applied,Vivek,USD,562.5,562.5,0.0,No Payment Due,EDO8127,2024-06-26
+Moses,Adeyemi,+233999654423,Ghana,Manipal University,Inactive,Abdul,USD,937.5,422.5125,514.9875,Payment Due,EDO1290,2026-12-07
+Ibrahim,Mokoena,788246680,Tanzania,,Pending,Abdul,USD,937.5,937.5,0.0,No Payment Due,EDO4242,2025-04-09
+Blessing,Eze,+234374152778,Nigeria,Amity University,Waitlisted,Priya,USD,3000.0,953.0,2047.0,Payment Due,EDO8570,2025-08-02
+Halima,Girma,+256656765099,Uganda,Bennett University,Enrolled,Abdul,USD,1000.0,1000.0,0.0,No Payment Due,EDO4483,2025-02-02
+Omar,Mumba,+254453194190,Kenya,Amity Noida,Active,Priya,USD,1000.0,384.0,616.0,Payment Due,EDO2128,2025-07-10
+Abraham,Kamau,+263047963886,Zimbabwe,Sharda University,Dropped,Abdul,USD,1000.0,0.0,1000.0,Payment Due,EDO8338,2026-07-16
+Olumide,Kariuki,,Ethiopia,Upes,On Hold,Priya,USD,1000.0,233.0,767.0,Payment Due,EDO6164,2026-03-12
+Moses,Adeyemi,+265438683518,Malawi,Sharda University,Pending,Mayank,USD,2000.0,0.0,2000.0,Payment Due,EDO5409,2025-12-18
+Solomon,Balde,,Rwanda,,Applied,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO5922,2024-02-12
+Emmanuel,Mabaso,+267030879111,Botswana,Sharda University,On Hold,Vivek,USD,1500.0,415.0,1085.0,Payment Due,EDO7640,2024-02-18
+Halima,Adeyemi,786665395,Ghana,Srm Chennai,Dropped,Not Found,USD,2500.0,2500.0,0.0,No Payment Due,EDO2747,2026-05-23
+Wanjiru,Mumba,+260194155125,Zambia,Lovely Professional University,Active,Not Found,USD,750.0,484.0,266.0,Payment Due,EDO9163,2024-02-20
+Fatima,Mumba,+260084663827,Zambia,Bennett University,In Progress,Vivek,USD,750.0,410.0,340.0,Payment Due,EDO8534,2025-10-31
+Faith,Ndiaye,,Kenya,Chitkara University,Enrolled,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO1729,2026-05-20
+Musa,Kariuki,,Malawi,Srm University,Deferred,Akshay,USD,2000.0,0.0,2000.0,Payment Due,EDO3311,2025-09-18
+Yusuf,Gyasi,+255519831847,Tanzania,Amity Noida,Pending,Mayank,USD,750.0,208.0,542.0,Payment Due,EDO7797,2024-09-06
+Sade,Gyasi,94938776,Botswana,Srm University,Applied,Priya,USD,562.5,0.0,562.5,Payment Due,EDO3469,2026-01-07
+Joy,Diop,+250164809676,Rwanda,Lpu,Enrolled,Abdul,USD,2500.0,1013.0,1487.0,Payment Due,EDO4517,2024-04-14
+Thabo,Camara,,Cameroon,Vit University,Waitlisted,Priya,USD,2000.0,2000.0,0.0,No Payment Due,EDO7243,2024-04-22
+Abena,Obi,,Kenya,Upes,Deferred,Abdul,USD,750.0,750.0,0.0,No Payment Due,EDO5626,2024-03-17
+Kofi,Mwale,+251783928197,Ethiopia,Upes,On Hold,Abdul,USD,2500.0,0.0,2500.0,Payment Due,EDO6189,2026-07-24
+Mwangi,Balde,+263199810426,Zimbabwe,Bennett University,Pending,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO7375,2025-05-01
+Ngozi,Otieno,+254478879050,Kenya,Upes,Inactive,Akshay,USD,562.5,98.6125,463.8875,Payment Due,EDO7897,2026-08-27
+Blessing,Nwachukwu,+254360026927,Kenya,Vit University,Active,Vivek,USD,2500.0,1402.0,1098.0,Payment Due,EDO4715,2025-09-21
+Samuel,Otieno,+27449847057,South Africa,,Active,Mayank,USD,1500.0,0.0,1500.0,Payment Due,EDO8601,2025-11-17
+Mwangi,Okeke,51860403,Namibia,Manipal University,Active,Akshay,USD,2000.0,1369.0,631.0,Payment Due,EDO9710,2025-10-20
+Ngozi,Bello,+237336950228,Cameroon,Upes,Enrolled,Manan,USD,3000.0,1820.0,1180.0,Payment Due,EDO2438,2024-06-05
+Peace,Toure,,Cameroon,Manipal University,On Hold,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO1375,2025-03-29
+Lebo,Dike,+254068743133,Kenya,Amity University,Deferred,Vivek,USD,562.5,562.5,0.0,No Payment Due,EDO3242,2024-02-16
+Ibrahim,Tesfaye,,Botswana,,Active,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO3832,2025-02-25
+Emmanuel,Mumba,237969195366,Cameroon,Amity University,Pending,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO9096,2025-09-01
+Chisom,Owino,+251111383,Kenya,Lpu,Enrolled,Not Found,USD,750.0,750.0,0.0,No Payment Due,EDO1926,2024-06-04
+Musa,Diop,,Uganda,Vit University,On Hold,Akshay,USD,2500.0,369.0,2131.0,Payment Due,EDO6409,2024-06-07
+Aminata,Mumba,+264594135065,Namibia,,Pending,Mayank,USD,937.5,0.0,937.5,Payment Due,EDO7112,2026-02-11
+Adaeze,Appiah,+254393073281,Kenya,Lpu,Dropped,Manan,USD,1000.0,1000.0,0.0,No Payment Due,EDO2418,2026-09-08
+Grace,Fall,146914991,Uganda,Bennett University,Dropped,Akshay,USD,1000.0,1000.0,0.0,No Payment Due,EDO8448,2025-09-04
+Mwangi,Okeke,+27908354312,South Africa,Srm University,Active,Akshay,USD,1000.0,1000.0,0.0,No Payment Due,EDO2715,2025-08-21
+Omondi,Asante,464364572,Ethiopia,Lovely Professional University,Deferred,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO1659,2025-09-08
+Musa,Ndlovu,220975348,Zimbabwe,Sharda University,Enrolled,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO3145,2024-04-26
+Abraham,Owino,+255554562354,Tanzania,Lovely Professional University,Enrolled,Unknown,USD,1000.0,1000.0,0.0,No Payment Due,EDO3124,2025-10-25
+Thabo,Cele,+267532848204,Botswana,Amity University,Deferred,Priya,USD,1500.0,1500.0,0.0,No Payment Due,EDO4026,2026-12-13
+Yemi,Eze,,Malawi,Lpu,Applied,Akshay,USD,2500.0,139.0,2361.0,Payment Due,EDO9349,2025-02-12
+Kamau,Diop,627649673,Cameroon,Amity Noida,Active,Abdul,USD,937.5,230.6625,706.8375,Payment Due,EDO5416,2024-04-09
+Tunde,Barry,+251962429641,Ethiopia,Amity University,Inactive,Abdul,USD,2500.0,2500.0,0.0,No Payment Due,EDO8841,2026-05-29
+Mutua,Kamau,+263266275473,Zimbabwe,Manipal University,Active,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO5524,2026-10-28
+Musa,Mensah,+264559842846,Namibia,Bennett University,Enrolled,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO8446,2026-07-05
+Olumide,Otieno,+256380773709,Uganda,Srm Chennai,Dropped,Akshay,USD,1000.0,329.0,671.0,Payment Due,EDO3341,2026-10-02
+Grace,Adjei,+260642174428,Zambia,Amity Noida,Enrolled,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO2141,2024-12-21
+Aminata,Owino,+256624931666,Uganda,Amity University,Active,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO7843,2024-12-16
+Zanele,Kapinga,,Tanzania,Amity University,Applied,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO1333,2024-04-07
+Emeka,Girma,+267226511246,Botswana,Chitkara University,Pending,Mayank,USD,750.0,521.0,229.0,Payment Due,EDO1352,2024-04-05
+Kamau,Mwale,,Ghana,Lpu,Pending,Vivek,USD,937.5,234.2,703.3,Payment Due,EDO9025,2025-04-09
+Samuel,Obi,622806280,Uganda,Amity University,Dropped,Abdul,USD,1500.0,1500.0,0.0,No Payment Due,EDO6589,2024-05-04
+Hope,Mthembu,+265904206547,Malawi,Bennett University,Active,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO1658,2025-07-29
+Nkechi,Toure,+264871367779,Namibia,Bennett University,Dropped,Abdul,USD,750.0,95.0,655.0,Payment Due,EDO8318,2025-09-29
+Yemi,Okeke,+267533534417,Botswana,Bennett University,Inactive,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO1059,2026-10-25
+Omar,Abebe,,Malawi,Srm University,In Progress,Not Assigned,USD,2500.0,2500.0,0.0,No Payment Due,EDO9819,2024-10-30
+Ebuka,Cele,,Cameroon,Sharda University,Deferred,Akshay,USD,2000.0,2000.0,0.0,No Payment Due,EDO4767,2025-01-11
+Hope,Asante,433156286,Kenya,Srm University,Active,Akshay,USD,3000.0,2430.0,570.0,Payment Due,EDO1942,2025-08-08
+Femi,Mwale,+251514467939,Ethiopia,Amity University,Enrolled,Manan,USD,562.5,0.0,562.5,Payment Due,EDO5998,2026-06-23
+Kofi,Balde,+265568983611,Malawi,Bennett University,Pending,Abdul,USD,2000.0,0.0,2000.0,Payment Due,EDO7851,2024-03-02
+Faith,Owusu,+256824026574,Uganda,Amity Noida,In Progress,Priya,USD,562.5,0.0,562.5,Payment Due,EDO1012,2024-12-22
+Faith,Ampofo,+233133070908,Ghana,Lovely Professional University,Enrolled,Akshay,USD,937.5,151.3125,786.1875,Payment Due,EDO5242,2024-04-23
+Nomsa,,+250766218691,Rwanda,Lovely Professional University,Applied,Unknown,USD,750.0,750.0,0.0,No Payment Due,EDO1592,2024-06-05
+Thabo,Diallo,+265846107287,Malawi,Chitkara University,Applied,Vivek,USD,937.5,0.0,937.5,Payment Due,EDO7757,2025-07-10
+Kariuki,Zungu,+237076848664,Cameroon,,Deferred,Priya,USD,2000.0,0.0,2000.0,Payment Due,EDO9715,2025-01-26
+Victor,Okafor,,Uganda,Srm Chennai,Inactive,Not Found,USD,2000.0,595.0,1405.0,Payment Due,EDO8257,2025-09-23
+Aisha,Bello,204147266,South Africa,Vit University,Active,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO4281,2026-12-14
+Olumide,Kamau,+250168077531,Rwanda,Vit University,Enrolled,Vivek,USD,2500.0,342.0,2158.0,Payment Due,EDO3037,2025-05-16
+Amira,,510613414,Uganda,,Enrolled,Vivek,USD,937.5,632.775,304.725,Payment Due,EDO1534,2024-02-29
+Omondi,Balde,+251549149670,Ethiopia,Amity University,Inactive,Priya,USD,937.5,225.975,711.525,Payment Due,EDO2156,2026-03-29
+Solomon,Mwangi,,Rwanda,Amity Noida,Pending,Abdul,USD,2500.0,357.0,2143.0,Payment Due,EDO3876,2024-02-26
+Omar,Mumba,+255781692568,Tanzania,Manipal University,Pending,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO8854,2026-04-28
+Tunde,Tadesse,+263105746243,Zimbabwe,Lpu,Enrolled,Manan,USD,3000.0,370.0,2630.0,Payment Due,EDO6087,2024-03-29
+Yusuf,Njoroge,541922049,South Africa,Amity University,In Progress,Mayank,USD,1000.0,1000.0,0.0,No Payment Due,EDO6558,2024-10-10
+Mwangi,Barry,+255391713596,Tanzania,Sharda University,Waitlisted,Abdul,USD,937.5,546.6125,390.88750000000005,Payment Due,EDO4732,2025-09-10
+Zanele,Ndlovu,+251898483407,Ethiopia,Srm University,Enrolled,Priya,USD,3000.0,884.0,2116.0,Payment Due,EDO4797,2024-06-19
+Otieno,Kapinga,,Nigeria,Bennett University,Waitlisted,Manan,USD,750.0,0.0,750.0,Payment Due,EDO1190,2024-02-16
+Sade,Zungu,+255022114868,Tanzania,,On Hold,Priya,USD,1500.0,359.0,1141.0,Payment Due,EDO3115,2026-07-11
+Olumide,Mwale,190482436,Namibia,Vit University,Active,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO1544,2025-07-19
+Fatima,Annan,450085947,Ethiopia,Amity Noida,Enrolled,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO9736,2025-08-10
+Joy,Mbewe,+27703999671,South Africa,Srm Chennai,Dropped,Abdul,USD,1500.0,107.0,1393.0,Payment Due,EDO3822,2025-08-29
+Lebo,Mvula,336948779,Cameroon,Srm Chennai,Deferred,Abdul,USD,750.0,473.0,277.0,Payment Due,EDO8692,2024-04-23
+Thabo,Nkosi,+265077074572,Malawi,Srm Chennai,On Hold,Akshay,USD,1500.0,1500.0,0.0,No Payment Due,EDO7008,2026-01-16
+Tunde,Bello,+250796196507,Rwanda,Srm Chennai,Enrolled,Abdul,USD,1000.0,154.0,846.0,Payment Due,EDO4046,2026-06-07
+Nia,Wanjiru,+260457644364,Zambia,,Dropped,Abdul,USD,2500.0,0.0,2500.0,Payment Due,EDO3349,2026-09-16
+Mwangi,Camara,+265442927254,Malawi,Upes,Dropped,Akshay,USD,562.5,238.95,323.55,Payment Due,EDO3834,2025-01-19
+Nia,Sithole,+264889059987,Namibia,Manipal University,Enrolled,Priya,USD,3000.0,3000.0,0.0,No Payment Due,EDO5422,2026-03-27
+Kwame,Mokoena,+27618764426,South Africa,Sharda University,Enrolled,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO6369,2026-09-18
+Adaeze,Mensah,+234763364680,Nigeria,Srm Chennai,Dropped,Not Found,USD,1500.0,922.0,578.0,Payment Due,EDO1005,2025-12-23
+Omar,Mwangi,+255229285796,Tanzania,Sharda University,On Hold,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO9232,2024-08-22
+Abraham,Tesfaye,,Ethiopia,Srm University,Pending,Vivek,USD,2500.0,386.0,2114.0,Payment Due,EDO1443,2025-12-07
+Omar,Phiri,256231039101,Uganda,Srm University,Waitlisted,Akshay,USD,750.0,87.225,662.775,Payment Due,EDO8652,2025-05-29
+Halima,Kapinga,+254831274065,Kenya,Chitkara University,In Progress,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO7242,2025-07-04
+Moses,Bello,+263672155564,Zimbabwe,Chitkara University,Inactive,Abdul,USD,3000.0,163.0,2837.0,Payment Due,EDO1246,2025-05-17
+Victor,Owino,+267858336476,Botswana,Sharda University,Enrolled,Priya,USD,2000.0,482.0,1518.0,Payment Due,EDO9374,2026-11-01
+Emeka,Mbewe,+260102377037,Zambia,Vit University,Enrolled,Unknown,USD,1500.0,850.0,650.0,Payment Due,EDO1955,2024-05-08
+Faith,Banda,+251926369711,Ethiopia,Amity University,Enrolled,Vivek,USD,3000.0,614.0,2386.0,Payment Due,EDO9016,2025-05-09
+Kwame,Mthembu,88111040,Ethiopia,Bennett University,Enrolled,Vivek,USD,750.0,750.0,0.0,No Payment Due,EDO9999,2026-05-07
+Isaac,Abebe,+233377967401,Ghana,Lovely Professional University,Dropped,Vivek,USD,1000.0,783.0,217.0,Payment Due,EDO8023,2024-04-13
+Musa,Gyasi,+263315424300,Zimbabwe,Manipal University,Waitlisted,Mayank,USD,562.5,0.0,562.5,Payment Due,EDO4794,2024-03-14
+Kamau,,256912526458,Uganda,Srm University,Deferred,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO2920,2026-12-11
+Joy,Mutua,+237833685543,Cameroon,Srm University,On Hold,Manan,USD,750.0,0.0,750.0,Payment Due,EDO3333,2025-12-04
+Chisom,Abebe,+27142728010,South Africa,Bennett University,Enrolled,Mayank,USD,2000.0,975.0,1025.0,Payment Due,EDO6796,2024-11-07
+Moses,Nwosu,+255081417791,Tanzania,Chitkara University,Dropped,Priya,USD,3000.0,70.0,2930.0,Payment Due,EDO4022,2024-02-23
+Rutendo,Uche,,Botswana,Chitkara University,Waitlisted,Priya,USD,562.5,465.2,97.30000000000001,Payment Due,EDO3619,2025-12-27
+Solomon,Mumba,+234017636022,Nigeria,Amity Noida,Active,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO5538,2024-12-04
+Faith,Toure,,Tanzania,Lpu,Enrolled,Priya,USD,3000.0,867.0,2133.0,Payment Due,EDO9570,2024-09-06
+Kwame,Bekele,+255675036533,Tanzania,Lpu,Enrolled,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO6485,2024-07-21
+Amara,Appiah,+234896845521,Nigeria,Lpu,Enrolled,Unknown,USD,937.5,0.0,937.5,Payment Due,EDO6798,2026-01-09
+Zanele,Alemu,+260417822242,Zambia,Sharda University,On Hold,Abdul,USD,1000.0,653.0,347.0,Payment Due,EDO4020,2025-02-10
+Femi,Appiah,+256064588860,Uganda,Sharda University,Deferred,Manan,USD,2500.0,928.0,1572.0,Payment Due,EDO7620,2024-01-02
+Wanjiru,Mthembu,+237697453674,Cameroon,Srm Chennai,On Hold,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO4278,2026-07-25
+Njoroge,Obi,+250239270262,Rwanda,Manipal University,Dropped,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO4713,2025-10-28
+Amira,Mabaso,+237553605474,Cameroon,Amity University,Dropped,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO5344,2026-05-16
+Binta,Barry,,Kenya,Vit University,Active,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO1475,2026-06-26
+Tendai,Diallo,,Cameroon,Srm Chennai,In Progress,Abdul,USD,937.5,0.0,937.5,Payment Due,EDO9135,2026-11-13
+Amira,Abebe,,Zimbabwe,Manipal University,Pending,Manan,USD,1500.0,1500.0,0.0,No Payment Due,EDO8292,2025-04-28
+Adaeze,Gyasi,452125425,Kenya,Upes,Pending,Manan,USD,1000.0,258.0,742.0,Payment Due,EDO2911,2025-10-10
+Adaeze,Haile,78421658,Nigeria,Lpu,In Progress,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO5894,2026-05-01
+Ebuka,Kebede,+254055991504,Kenya,Bennett University,On Hold,Mayank,USD,1000.0,0.0,1000.0,Payment Due,EDO6058,2026-11-08
+Halima,Obi,466334560,Cameroon,Lpu,Inactive,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO8040,2024-11-13
+Amira,Owusu,+256270445782,Uganda,Chitkara University,Enrolled,Akshay,USD,937.5,120.1875,817.3125,Payment Due,EDO4154,2025-05-31
+Hope,Phiri,,Zambia,Amity University,Waitlisted,Abdul,USD,1000.0,96.0,904.0,Payment Due,EDO5700,2026-06-16
+Moses,Mabaso,237585466533,Cameroon,Upes,On Hold,Abdul,USD,1000.0,532.0,468.0,Payment Due,EDO6075,2025-07-03
+Emmanuel,Owusu,,Zambia,Lovely Professional University,Pending,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO3140,2026-11-03
+Halima,,+233255735444,Ghana,,Active,Manan,USD,750.0,0.0,750.0,Payment Due,EDO1975,2024-11-07
+Kwame,,+237170139115,Cameroon,Lovely Professional University,In Progress,Manan,USD,1000.0,0.0,1000.0,Payment Due,EDO6134,2026-08-23
+Emeka,Njoroge,+237843459042,Cameroon,Upes,Waitlisted,Priya,USD,562.5,0.0,562.5,Payment Due,EDO1021,2024-10-18
+Esther,Achieng,657771884,Malawi,Lovely Professional University,Enrolled,Priya,USD,2500.0,2500.0,0.0,No Payment Due,EDO1331,2025-02-24
+Nkechi,Ampofo,,Rwanda,Lovely Professional University,Enrolled,Manan,USD,2000.0,1016.0,984.0,Payment Due,EDO6703,2026-03-18
+Ebuka,Camara,732948983,Malawi,Lovely Professional University,Active,Abdul,USD,937.5,937.5,0.0,No Payment Due,EDO7843,2026-04-23
+Femi,Tesfaye,+267974098267,Botswana,Amity Noida,Applied,Vivek,USD,3000.0,156.0,2844.0,Payment Due,EDO6143,2026-11-07
+Mutua,Gyasi,+233065446357,Ghana,Srm University,Inactive,Vivek,USD,750.0,515.6875,234.3125,Payment Due,EDO5264,2024-09-06
+Kwame,Mensah,+250342476077,Rwanda,Bennett University,Pending,Manan,USD,562.5,463.1125,99.38749999999999,Payment Due,EDO3174,2024-02-02
+Hope,,,Uganda,Sharda University,Applied,Mayank,USD,562.5,0.0,562.5,Payment Due,EDO4572,2024-01-08
+Binta,Tadesse,+27292503825,South Africa,Bennett University,Enrolled,Not Found,USD,750.0,428.0,322.0,Payment Due,EDO5144,2026-07-20
+Ibrahim,Sithole,+260307557073,Zambia,Srm Chennai,Applied,Mayank,USD,1000.0,0.0,1000.0,Payment Due,EDO8940,2025-08-22
+Yusuf,Ndiaye,+250354601468,Rwanda,Bennett University,Applied,Akshay,USD,3000.0,371.0,2629.0,Payment Due,EDO4473,2026-08-06
+Abraham,Barry,+251008067555,Ethiopia,Upes,Active,Vivek,USD,750.0,222.0,528.0,Payment Due,EDO1699,2026-04-15
+Solomon,Adjei,+254564935483,Kenya,Vit University,Deferred,Abdul,USD,2500.0,556.0,1944.0,Payment Due,EDO3804,2026-09-21
+Nkechi,Ndiaye,+267852342641,Botswana,Srm Chennai,Deferred,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO7127,2026-04-26
+Ngozi,Appiah,237880735238,Cameroon,Sharda University,Active,Abdul,USD,2500.0,0.0,2500.0,Payment Due,EDO9755,2024-08-07
+Nia,Bello,+27543482151,South Africa,Lovely Professional University,Enrolled,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO8004,2024-02-01
+Tendai,,+254101848774,Kenya,Upes,Enrolled,Vivek,USD,2500.0,0.0,2500.0,Payment Due,EDO6209,2024-08-14
+Wanjiru,Balde,+267655887883,Botswana,Amity University,Enrolled,Not Assigned,USD,2500.0,0.0,2500.0,Payment Due,EDO6820,2025-10-25
+Joy,Gyasi,803365299,Zimbabwe,Manipal University,In Progress,Priya,USD,937.5,0.0,937.5,Payment Due,EDO7138,2024-05-16
+Victor,Dlamini,888988997,Kenya,Srm University,Deferred,Manan,USD,1500.0,1500.0,0.0,No Payment Due,EDO1747,2026-01-11
+Esther,,+251215356007,Ethiopia,Upes,Inactive,Manan,USD,750.0,151.0,599.0,Payment Due,EDO1768,2025-10-21
+Ruth,Khumalo,+27473504457,South Africa,Manipal University,In Progress,Mayank,USD,750.0,175.1,574.9,Payment Due,EDO6807,2026-11-24
+Rutendo,Okeke,+237650424829,Cameroon,Srm University,Enrolled,Mayank,USD,937.5,246.475,691.025,Payment Due,EDO6622,2026-08-19
+Solomon,Balde,+265581441268,Malawi,,Deferred,Manan,USD,1500.0,1500.0,0.0,No Payment Due,EDO8684,2024-05-23
+Aminata,,+250669052539,Rwanda,Lpu,Enrolled,Mayank,USD,1000.0,1000.0,0.0,No Payment Due,EDO4771,2025-09-22
+Ade,Asante,+264531620,South Africa,Upes,Pending,Akshay,USD,1500.0,0.0,1500.0,Payment Due,EDO3230,2025-01-02
+Ruth,Mvula,+27469222958,South Africa,Bennett University,Enrolled,Manan,USD,937.5,608.2875,329.2125,Payment Due,EDO2577,2025-02-24
+Wanjiru,Cele,,Ethiopia,Amity Noida,On Hold,Unknown,USD,750.0,88.0,662.0,Payment Due,EDO9471,2024-05-10
+Halima,Fall,+234194176758,Nigeria,Upes,Pending,Manan,USD,1000.0,209.0,791.0,Payment Due,EDO4337,2026-05-25
+Mwangi,Bello,181459311,Rwanda,Lpu,Inactive,Vivek,USD,750.0,494.9125,255.08749999999998,Payment Due,EDO2349,2026-12-05
+Nkechi,Kariuki,856372321,Zambia,Amity Noida,Applied,Priya,USD,3000.0,3000.0,0.0,No Payment Due,EDO3104,2026-03-19
+Thabo,Okafor,+255004892045,Tanzania,Sharda University,Pending,Unknown,USD,750.0,750.0,0.0,No Payment Due,EDO4400,2024-11-15
+Otieno,Fall,+251099627303,Ethiopia,Lovely Professional University,Enrolled,Not Assigned,USD,562.5,562.5,0.0,No Payment Due,EDO9596,2024-01-14
+Esther,Bekele,+260646752960,Zambia,Chitkara University,Applied,Not Assigned,USD,2000.0,1679.0,321.0,Payment Due,EDO4995,2026-04-13
+Emeka,Okafor,,Zimbabwe,Manipal University,Active,Unknown,USD,1500.0,397.0,1103.0,Payment Due,EDO2374,2025-04-19
+Njoroge,Eze,+27999274693,South Africa,Srm University,Applied,Not Found,USD,750.0,334.0,416.0,Payment Due,EDO8550,2024-05-03
+Nomsa,Bello,+250615107197,Rwanda,Manipal University,Enrolled,Manan,USD,2500.0,0.0,2500.0,Payment Due,EDO4471,2024-09-26
+Mwangi,Adjei,+256508613305,Uganda,Chitkara University,Enrolled,Akshay,USD,1000.0,772.0,228.0,Payment Due,EDO4545,2024-09-15
+Mutua,Mumba,,South Africa,Lovely Professional University,Active,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO1607,2025-03-08
+Tunde,Okeke,+234526250164,Nigeria,Lovely Professional University,Deferred,Priya,USD,750.0,39.6875,710.3125,Payment Due,EDO1184,2024-02-23
+Chisom,Dlamini,+264893766185,Namibia,Chitkara University,Waitlisted,Priya,USD,3000.0,0.0,3000.0,Payment Due,EDO5241,2025-10-28
+Kemi,Balde,+260002068306,Zambia,Srm Chennai,Enrolled,Abdul,USD,562.5,562.5,0.0,No Payment Due,EDO1099,2026-12-19
+Chisom,,559392542,Tanzania,Vit University,Deferred,Not Assigned,USD,1500.0,564.0,936.0,Payment Due,EDO8668,2025-09-01
+Faith,Bekele,+251452412239,Ethiopia,,Enrolled,Unknown,USD,3000.0,0.0,3000.0,Payment Due,EDO9934,2024-11-22
+Omar,Kebede,+251647677246,Ethiopia,Lpu,Inactive,Mayank,USD,2500.0,163.0,2337.0,Payment Due,EDO5704,2026-05-24
+Ade,Mbewe,,Namibia,Sharda University,Pending,Abdul,USD,1500.0,380.0,1120.0,Payment Due,EDO4414,2024-04-02
+Joy,Kamau,+254576236048,Kenya,Srm Chennai,Enrolled,Manan,USD,937.5,40.6125,896.8875,Payment Due,EDO5610,2025-03-26
+Olumide,Sithole,+267824744955,Botswana,Srm Chennai,Enrolled,Priya,USD,750.0,0.0,750.0,Payment Due,EDO4643,2026-02-10
+Kariuki,Wanjiru,,Rwanda,Amity Noida,Applied,Manan,USD,1500.0,1135.0,365.0,Payment Due,EDO5925,2024-05-03
+Esther,Fall,+27514254028,South Africa,Amity University,Pending,Priya,USD,3000.0,0.0,3000.0,Payment Due,EDO7942,2025-06-13
+Kemi,Owino,+233729022933,Ghana,Sharda University,Inactive,Priya,USD,937.5,0.0,937.5,Payment Due,EDO7213,2025-11-10
+Musa,Adjei,,Ghana,Amity Noida,Enrolled,Manan,USD,3000.0,288.0,2712.0,Payment Due,EDO6879,2026-10-01
+Mutua,Abebe,932151706,Ethiopia,Amity Noida,Enrolled,Priya,USD,3000.0,2475.0,525.0,Payment Due,EDO6180,2024-11-12
+Otieno,Toure,,Kenya,Lpu,On Hold,Manan,USD,1000.0,25.0,975.0,Payment Due,EDO7133,2026-01-02
+Abena,Tesfaye,,Tanzania,Srm University,Enrolled,Priya,USD,3000.0,550.0,2450.0,Payment Due,EDO2293,2026-12-06
+Daniel,Ndiaye,+255481712577,Tanzania,Vit University,Inactive,Priya,USD,3000.0,3000.0,0.0,No Payment Due,EDO4812,2024-08-31
+Ngozi,Balde,81506928,Nigeria,,Enrolled,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO2182,2024-02-15
+Abraham,Okeke,+260824772105,Zambia,Bennett University,Enrolled,Mayank,USD,1500.0,388.0,1112.0,Payment Due,EDO7958,2025-07-29
+Ruth,,+255182445767,Tanzania,Manipal University,Active,Unknown,USD,750.0,68.0,682.0,Payment Due,EDO8024,2026-04-22
+Njoroge,Boateng,706613669,Nigeria,Amity University,Pending,Abdul,USD,1500.0,594.0,906.0,Payment Due,EDO9454,2026-08-31
+Nkechi,Abebe,+250802405628,Rwanda,Chitkara University,Inactive,Akshay,USD,2500.0,1471.0,1029.0,Payment Due,EDO2417,2024-03-26
+Otieno,Boateng,928722335,Namibia,Upes,Applied,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO4983,2025-02-18
+Moses,Ampofo,+255122417475,Tanzania,Srm University,Enrolled,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO3102,2026-06-25
+Hope,Annan,557774386,Ghana,Amity University,Enrolled,Manan,USD,562.5,562.5,0.0,No Payment Due,EDO6199,2025-09-11
+Solomon,Mwangi,+256614537165,Uganda,Bennett University,Waitlisted,Abdul,USD,1500.0,0.0,1500.0,Payment Due,EDO3838,2024-08-25
+Nia,Toure,,Botswana,,In Progress,Priya,USD,1000.0,295.0,705.0,Payment Due,EDO5098,2026-05-29
+Halima,Kebede,+264162467309,Namibia,Srm Chennai,On Hold,Manan,USD,562.5,0.0,562.5,Payment Due,EDO3609,2026-08-03
+Chisom,Diop,+264613917854,Namibia,Srm Chennai,Inactive,Unknown,USD,1500.0,0.0,1500.0,Payment Due,EDO2860,2026-01-22
+Femi,Zulu,+233061415582,Ghana,Manipal University,Active,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO2732,2024-06-12
+Emeka,Adeyemi,+255792821122,Tanzania,Bennett University,Applied,Mayank,USD,750.0,750.0,0.0,No Payment Due,EDO4385,2024-03-27
+Amira,Eze,+267507099632,Botswana,Srm Chennai,Deferred,Manan,USD,2000.0,0.0,2000.0,Payment Due,EDO2987,2026-07-02
+Sipho,Tesfaye,15077088,Tanzania,Sharda University,Pending,Mayank,USD,562.5,562.5,0.0,No Payment Due,EDO6592,2025-11-16
+Yusuf,Bekele,+234630128421,Nigeria,Srm University,Enrolled,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO6982,2026-03-09
+Olumide,Zungu,83091117,Malawi,Srm Chennai,Applied,Akshay,USD,1000.0,469.0,531.0,Payment Due,EDO3816,2024-05-06
+Amara,Otieno,+267075307521,Botswana,Lpu,Pending,Vivek,USD,1000.0,233.0,767.0,Payment Due,EDO4959,2025-06-05
+Halima,Mvula,+256146591037,Uganda,,Enrolled,Mayank,USD,2000.0,626.0,1374.0,Payment Due,EDO3783,2026-04-29
+Nia,,+263711909046,Zimbabwe,Chitkara University,Deferred,Unknown,USD,2000.0,1594.0,406.0,Payment Due,EDO9688,2026-04-08
+Kariuki,Mbewe,,Tanzania,Chitkara University,Active,Mayank,USD,750.0,339.0,411.0,Payment Due,EDO4571,2025-06-22
+Amara,Mwangi,+265581703860,Malawi,Lovely Professional University,Active,Akshay,USD,1500.0,1166.0,334.0,Payment Due,EDO3375,2024-07-05
+Yemi,Balde,458172406,South Africa,Srm Chennai,In Progress,Mayank,USD,562.5,562.5,0.0,No Payment Due,EDO2945,2025-12-13
+Esther,Toure,+251465611545,Ethiopia,Amity Noida,On Hold,Priya,USD,1500.0,1500.0,0.0,No Payment Due,EDO7238,2024-01-01
+Abraham,,+256094596634,Uganda,Upes,Waitlisted,Akshay,USD,2500.0,128.0,2372.0,Payment Due,EDO9320,2024-01-18
+Njoroge,,130852204,Nigeria,Srm Chennai,Active,Manan,USD,2000.0,198.0,1802.0,Payment Due,EDO1750,2024-04-29
+Wanjiru,Camara,+267566360111,Botswana,Amity University,Deferred,Unknown,USD,2000.0,0.0,2000.0,Payment Due,EDO7784,2025-11-28
+Ngozi,Toure,+256467475141,Uganda,Upes,Active,Manan,USD,750.0,87.825,662.175,Payment Due,EDO1782,2024-04-03
+Ibrahim,Khumalo,,Uganda,Upes,Pending,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO3942,2024-01-01
+Mwangi,Mwale,+251924096777,Ethiopia,Amity Noida,Waitlisted,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO5469,2025-01-01
+Fatima,Nwachukwu,+234168317227,Nigeria,Bennett University,Enrolled,Vivek,USD,562.5,57.2375,505.2625,Payment Due,EDO7148,2024-04-13
+Kofi,Haile,477775939,Cameroon,Lovely Professional University,Enrolled,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO8884,2024-08-01
+Daniel,Diop,+233971628668,Ghana,Srm University,Waitlisted,Vivek,USD,750.0,82.0,668.0,Payment Due,EDO3567,2024-12-04
+Otieno,Fall,560850177,Zimbabwe,Lovely Professional University,In Progress,Abdul,USD,1000.0,18.0,982.0,Payment Due,EDO7571,2026-06-10
+Victor,Mwale,483874957,Malawi,Upes,Active,Mayank,USD,2000.0,2000.0,0.0,No Payment Due,EDO2265,2024-12-09
+Emeka,Okafor,+256962977436,Uganda,Amity Noida,Pending,Unknown,USD,2500.0,2500.0,0.0,No Payment Due,EDO3243,2025-03-24
+Faith,Diop,727493361,Ghana,Bennett University,Enrolled,Priya,USD,937.5,413.375,524.125,Payment Due,EDO1496,2026-06-17
+Ade,Mthembu,+27969168329,South Africa,Upes,Dropped,Mayank,USD,750.0,148.0,602.0,Payment Due,EDO5192,2025-03-02
+Grace,Kariuki,+237793329646,Cameroon,Lpu,Deferred,Manan,USD,3000.0,3000.0,0.0,No Payment Due,EDO1698,2025-11-03
+Kamau,,+251431325868,Ethiopia,Sharda University,Enrolled,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO1894,2026-11-21
+Amira,Nkosi,+234729228310,Nigeria,,Enrolled,Vivek,USD,2500.0,2500.0,0.0,No Payment Due,EDO3289,2025-11-27
+Zara,Kebede,+234950189664,Nigeria,Lpu,Dropped,Manan,USD,750.0,0.0,750.0,Payment Due,EDO4093,2024-09-17
+Grace,Diallo,856219367,Botswana,Lovely Professional University,Inactive,Not Assigned,USD,1500.0,1500.0,0.0,No Payment Due,EDO9244,2026-04-28
+Olumide,Tadesse,+234631359520,Nigeria,Sharda University,Enrolled,Abdul,USD,1500.0,1500.0,0.0,No Payment Due,EDO6880,2025-01-14
+Kofi,Dike,819301591,Kenya,Bennett University,Deferred,Not Assigned,USD,1000.0,0.0,1000.0,Payment Due,EDO5323,2024-10-22
+Hassan,Mutua,+260781799709,Zambia,Chitkara University,Active,Vivek,USD,3000.0,538.0,2462.0,Payment Due,EDO7105,2024-05-26
+Abena,Toure,+260919824891,Zambia,Upes,Enrolled,Not Found,USD,3000.0,3000.0,0.0,No Payment Due,EDO6873,2024-06-13
+Ibrahim,Mabaso,+27767607032,South Africa,Bennett University,Active,Mayank,USD,2500.0,2500.0,0.0,No Payment Due,EDO2238,2024-03-23
+Nkechi,Njoroge,+265446926378,Malawi,Srm Chennai,In Progress,Priya,USD,1000.0,585.0,415.0,Payment Due,EDO5052,2024-05-18
+Yemi,Kapinga,+27601573549,South Africa,Sharda University,Waitlisted,Mayank,USD,1000.0,0.0,1000.0,Payment Due,EDO8802,2024-01-05
+Otieno,Alemu,+264795847005,Namibia,Upes,Enrolled,Akshay,USD,1000.0,1000.0,0.0,No Payment Due,EDO6273,2024-10-30
+Chidi,Njoroge,+255244073882,Tanzania,Amity University,In Progress,Abdul,USD,750.0,141.0,609.0,Payment Due,EDO9579,2025-12-22
+Femi,Camara,+260024123358,Zambia,Bennett University,Pending,Abdul,USD,1000.0,0.0,1000.0,Payment Due,EDO5220,2024-08-26
+Amara,Ndlovu,+251868440912,Ethiopia,Srm University,On Hold,Unknown,USD,562.5,0.0,562.5,Payment Due,EDO2798,2025-07-22
+Halima,Kamau,237196234024,Cameroon,Lpu,Enrolled,Abdul,USD,2500.0,297.0,2203.0,Payment Due,EDO5197,2026-02-12
+Ade,Nkosi,+255790357889,Tanzania,Sharda University,Pending,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO1311,2025-08-17
+Grace,Mumba,785541379,South Africa,Manipal University,Enrolled,Manan,USD,1500.0,1169.0,331.0,Payment Due,EDO4285,2025-07-20
+Amira,Mumba,+256406820703,Uganda,Srm Chennai,On Hold,Not Found,USD,2500.0,0.0,2500.0,Payment Due,EDO5753,2024-09-18
+Amira,Tesfaye,,Botswana,Srm University,In Progress,Vivek,USD,2500.0,2500.0,0.0,No Payment Due,EDO8193,2025-09-08
+Emeka,Nkosi,+237123418052,Cameroon,Lovely Professional University,Enrolled,Priya,USD,2500.0,0.0,2500.0,Payment Due,EDO6794,2025-10-15
+Ruth,Okafor,+264771689115,Namibia,Lpu,Inactive,Vivek,USD,562.5,0.0,562.5,Payment Due,EDO4032,2024-08-20
+Solomon,Mumba,+256172985439,Uganda,Amity University,Pending,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO8055,2026-06-01
+Njoroge,,+263980424537,Zimbabwe,Lpu,Deferred,Abdul,USD,750.0,750.0,0.0,No Payment Due,EDO3910,2025-08-10
+Lebo,Nkosi,645978843,Rwanda,Sharda University,Inactive,Manan,USD,1000.0,473.0,527.0,Payment Due,EDO4540,2024-06-08
+Omar,Girma,288230551,Malawi,Upes,Deferred,Manan,USD,937.5,147.9,789.6,Payment Due,EDO8171,2026-04-01
+Kwame,Mumba,,Zimbabwe,Lovely Professional University,Active,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO2477,2025-06-27
+Aminata,Toure,+237486802225,Cameroon,Vit University,Enrolled,Manan,USD,562.5,562.5,0.0,No Payment Due,EDO5115,2024-07-24
+Kwame,Nwosu,318915935,South Africa,Amity University,Inactive,Unknown,USD,750.0,70.2875,679.7125,Payment Due,EDO8850,2026-01-14
+Hassan,Boateng,+260315048,Namibia,,Pending,Abdul,USD,562.5,108.6625,453.8375,Payment Due,EDO1001,2026-04-17
+Ibrahim,Annan,+234844056893,Nigeria,Lpu,On Hold,Abdul,USD,750.0,178.0,572.0,Payment Due,EDO1925,2024-12-09
+Kamau,Diop,677047905,Kenya,Amity Noida,Deferred,Akshay,USD,562.5,0.0,562.5,Payment Due,EDO8893,2024-11-25
+Binta,Boateng,+27787423579,South Africa,Vit University,Pending,Priya,USD,750.0,583.8875,166.11249999999995,Payment Due,EDO5477,2025-03-12
+Solomon,Mutua,,Cameroon,Sharda University,Applied,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO3762,2025-02-12
+Daniel,Omondi,+263519264786,Zimbabwe,Sharda University,Applied,Akshay,USD,750.0,258.75,491.25,Payment Due,EDO3718,2026-10-20
+Fatima,,+255914376270,Tanzania,Chitkara University,Enrolled,Manan,USD,750.0,352.0,398.0,Payment Due,EDO2998,2026-05-07
+Peace,Banda,+237932056755,Cameroon,Amity University,Dropped,Akshay,USD,937.5,66.8125,870.6875,Payment Due,EDO9193,2024-09-24
+Ebuka,Tesfaye,+237903541273,Cameroon,Srm Chennai,Active,Akshay,USD,1000.0,256.0,744.0,Payment Due,EDO4989,2025-10-15
+Aisha,Bello,163197358,Rwanda,Chitkara University,Enrolled,Manan,USD,3000.0,1408.0,1592.0,Payment Due,EDO5099,2026-04-19
+Kwame,Sithole,376803577,Malawi,Amity University,On Hold,Mayank,USD,2500.0,0.0,2500.0,Payment Due,EDO8779,2026-05-02
+Fatima,Okafor,+263658538606,Zimbabwe,Amity Noida,Pending,Not Assigned,USD,750.0,98.3625,651.6375,Payment Due,EDO9314,2025-04-03
+Omar,Okafor,+27749296075,South Africa,Lpu,Enrolled,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO5940,2026-06-23
+Kofi,Haile,861915714,Rwanda,Srm University,Active,Abdul,USD,750.0,588.0,162.0,Payment Due,EDO4245,2025-08-22
+Ngozi,Nwosu,+263698054170,Zimbabwe,Lovely Professional University,Pending,Mayank,USD,750.0,750.0,0.0,No Payment Due,EDO8689,2026-11-14
+Mwangi,Quartey,+250583829693,Rwanda,,Active,Priya,USD,750.0,0.0,750.0,Payment Due,EDO9398,2026-07-25
+Blessing,Zungu,,Botswana,Amity Noida,Inactive,Unknown,USD,3000.0,716.0,2284.0,Payment Due,EDO2646,2026-08-21
+Kofi,Ndiaye,+237256457341,Cameroon,Amity University,Enrolled,Akshay,USD,2500.0,672.0,1828.0,Payment Due,EDO4581,2024-02-01
+Kamau,Gyasi,+234033619319,Nigeria,Srm University,In Progress,Priya,USD,750.0,134.0,616.0,Payment Due,EDO3125,2025-02-19
+Wanjiru,Owino,687375102,Rwanda,Lovely Professional University,Dropped,Priya,USD,1000.0,132.0,868.0,Payment Due,EDO7358,2026-05-12
+Olumide,Annan,+234672832123,Nigeria,Amity University,On Hold,Priya,USD,2000.0,2000.0,0.0,No Payment Due,EDO6694,2025-11-26
+Amira,Cele,+254315140862,Kenya,Amity University,Deferred,Vivek,USD,750.0,291.0,459.0,Payment Due,EDO6533,2026-02-27
+Yemi,Appiah,+251822040982,Ethiopia,Srm Chennai,Inactive,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO7485,2026-11-25
+Fatima,Otieno,,Botswana,Manipal University,Pending,Mayank,USD,1000.0,26.0,974.0,Payment Due,EDO5836,2024-08-08
+Emeka,Alemu,256939026843,Uganda,Chitkara University,Waitlisted,Not Found,USD,1500.0,1500.0,0.0,No Payment Due,EDO2851,2024-05-24
+Yusuf,Dlamini,,South Africa,Srm University,Enrolled,Not Found,USD,2500.0,2500.0,0.0,No Payment Due,EDO6681,2024-03-13
+Zara,Bekele,+267906967946,Botswana,Sharda University,Pending,Mayank,USD,937.5,20.8,916.7,Payment Due,EDO3069,2026-08-22
+Ibrahim,Mbewe,+267218647345,Botswana,Bennett University,Inactive,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO9936,2026-08-10
+Samuel,Ampofo,+256878524931,Uganda,Manipal University,Enrolled,Abdul,USD,562.5,98.125,464.375,Payment Due,EDO6628,2025-03-14
+Grace,Mthembu,+255770376681,Tanzania,Srm University,Deferred,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO3460,2025-03-22
+Fatima,Dlamini,+260410232834,Zambia,Amity Noida,On Hold,Abdul,USD,562.5,562.5,0.0,No Payment Due,EDO9624,2025-02-22
+Otieno,Mokoena,,Zimbabwe,,Applied,Priya,USD,750.0,290.0,460.0,Payment Due,EDO6774,2026-06-08
+Tendai,Asante,+233452979436,Ghana,Vit University,Inactive,Unknown,USD,2500.0,1447.0,1053.0,Payment Due,EDO4363,2026-11-04
+Zanele,Adjei,+255002829432,Tanzania,Manipal University,Dropped,Vivek,USD,1500.0,1500.0,0.0,No Payment Due,EDO4304,2026-09-03
+Solomon,Kamau,+267210000109,Botswana,Lpu,Dropped,Akshay,USD,750.0,85.975,664.025,Payment Due,EDO5050,2024-09-23
+Ruth,Mokoena,+264287985107,Namibia,Sharda University,Enrolled,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO4618,2026-08-17
+Kamau,Okeke,+250655115315,Rwanda,Srm Chennai,Enrolled,Manan,USD,2000.0,393.0,1607.0,Payment Due,EDO9732,2026-05-09
+Esther,Fall,+250009707709,Rwanda,Amity Noida,Inactive,Vivek,USD,937.5,195.3,742.2,Payment Due,EDO7369,2024-09-10
+Wanjiru,Fall,+264428765159,Namibia,Vit University,Enrolled,Mayank,USD,1500.0,1231.0,269.0,Payment Due,EDO1182,2024-05-28
+Mutua,Adeyemi,+233619446068,Ghana,Upes,Pending,Abdul,USD,2500.0,1438.0,1062.0,Payment Due,EDO8865,2024-07-09
+Olumide,Adeyemi,+267586295524,Botswana,Amity Noida,Pending,Manan,USD,750.0,42.0,708.0,Payment Due,EDO3025,2025-10-06
+Tunde,Owino,647539558,Zambia,Chitkara University,Pending,Manan,USD,937.5,227.0625,710.4375,Payment Due,EDO1462,2025-11-21
+Nomsa,,+233969332211,Ghana,Amity University,Enrolled,Priya,USD,1500.0,1500.0,0.0,No Payment Due,EDO6034,2025-08-17
+Ibrahim,Ampofo,+256793187906,Uganda,Srm University,Enrolled,Vivek,USD,937.5,264.3125,673.1875,Payment Due,EDO6241,2025-11-13
+Olumide,Barry,+233507782821,Ghana,Srm University,Applied,Mayank,USD,937.5,157.5125,779.9875,Payment Due,EDO9914,2024-08-07
+Ade,Asante,+263459325331,Zimbabwe,Vit University,Applied,Unknown,USD,2500.0,205.0,2295.0,Payment Due,EDO5849,2025-06-15
+Zara,Mwangi,256579875829,Uganda,Upes,Active,Mayank,USD,562.5,439.4625,123.03750000000002,Payment Due,EDO8142,2025-05-09
+Wanjiru,Khumalo,+27927692285,South Africa,Sharda University,Pending,Priya,USD,750.0,83.25,666.75,Payment Due,EDO5713,2026-10-21
+Mwangi,Otieno,+267354697648,Botswana,Lovely Professional University,Waitlisted,Mayank,USD,2000.0,1691.0,309.0,Payment Due,EDO3727,2025-09-02
+Sipho,Diallo,849104859,Uganda,Bennett University,Dropped,Manan,USD,2500.0,672.0,1828.0,Payment Due,EDO8761,2025-05-28
+Fatima,Nwosu,+233432295662,Ghana,Amity University,Deferred,Mayank,USD,750.0,262.1375,487.8625,Payment Due,EDO5069,2024-02-18
+Aminata,Mensah,543602262,Nigeria,Bennett University,Waitlisted,Mayank,USD,750.0,403.6875,346.3125,Payment Due,EDO6476,2024-10-08
+Kofi,Mwangi,+264743371094,Namibia,Upes,Pending,Vivek,USD,2000.0,520.0,1480.0,Payment Due,EDO4238,2024-10-24
+Hope,Achieng,,Namibia,Amity University,Inactive,Abdul,USD,2000.0,597.0,1403.0,Payment Due,EDO5941,2024-05-13
+Blessing,Bello,,Tanzania,Lpu,Enrolled,Manan,USD,3000.0,0.0,3000.0,Payment Due,EDO6218,2026-09-16
+Ibrahim,Ampofo,+256530497608,Uganda,Upes,Active,Mayank,USD,2500.0,1593.0,907.0,Payment Due,EDO4961,2024-08-14
+Joy,Quartey,+250151520992,Rwanda,Srm Chennai,In Progress,Vivek,USD,562.5,316.2875,246.21249999999998,Payment Due,EDO3643,2025-01-08
+Ibrahim,Kebede,,Uganda,Chitkara University,In Progress,Priya,USD,562.5,0.0,562.5,Payment Due,EDO6972,2025-01-16
+Kwame,Camara,+234406514024,Nigeria,Lpu,Active,Vivek,USD,937.5,146.025,791.475,Payment Due,EDO8834,2024-02-09
+Kariuki,Annan,+256040686628,Uganda,Amity University,In Progress,Vivek,USD,2500.0,2500.0,0.0,No Payment Due,EDO7915,2025-07-15
+Hassan,Abebe,+255904349426,Tanzania,Amity Noida,Deferred,Not Found,USD,3000.0,256.0,2744.0,Payment Due,EDO9497,2026-06-05
+Njoroge,Khumalo,+27556187153,South Africa,Manipal University,Enrolled,Manan,USD,2000.0,2000.0,0.0,No Payment Due,EDO7078,2024-07-03
+Lebo,Barry,+234934593402,Nigeria,Srm Chennai,Active,Mayank,USD,1500.0,1176.0,324.0,Payment Due,EDO3611,2024-06-10
+Abena,Abebe,+254218455011,Kenya,Sharda University,Enrolled,Vivek,USD,562.5,159.925,402.575,Payment Due,EDO7217,2024-07-30
+Isaac,Mwale,,Nigeria,Amity Noida,Active,Unknown,USD,3000.0,3000.0,0.0,No Payment Due,EDO4317,2024-09-11
+Fatima,Mbewe,+234768473798,Nigeria,Vit University,Pending,Priya,USD,1500.0,104.0,1396.0,Payment Due,EDO3141,2024-09-21
+Tendai,Kariuki,+263082940213,Zimbabwe,Chitkara University,Active,Priya,USD,562.5,0.0,562.5,Payment Due,EDO2022,2026-12-20
+Hassan,Annan,+27084972658,South Africa,Lovely Professional University,Enrolled,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO4289,2024-07-31
+Lebo,Quartey,+234827197687,Nigeria,Srm University,On Hold,Abdul,USD,2500.0,120.0,2380.0,Payment Due,EDO3231,2025-07-17
+Adaeze,Toure,+260128303874,Zambia,Amity Noida,Applied,Manan,USD,750.0,13.075,736.925,Payment Due,EDO2158,2024-09-20
+Otieno,Banda,+254274360171,Kenya,Sharda University,Waitlisted,Manan,USD,750.0,450.825,299.175,Payment Due,EDO6667,2024-12-18
+Binta,Abebe,+264714888581,Namibia,Sharda University,Active,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO2867,2024-05-27
+Aminata,Girma,+260114442927,Zambia,,Enrolled,Vivek,USD,1500.0,1500.0,0.0,No Payment Due,EDO4563,2024-09-16
+Amara,Girma,+264180740368,Namibia,Lovely Professional University,Enrolled,Vivek,USD,1000.0,1000.0,0.0,No Payment Due,EDO4112,2026-08-02
+Thabo,Uche,,Tanzania,Sharda University,Active,Manan,USD,562.5,0.0,562.5,Payment Due,EDO5114,2025-12-31
+Njoroge,Toure,,Malawi,Lovely Professional University,Enrolled,Vivek,USD,750.0,204.55,545.45,Payment Due,EDO9194,2025-01-31
+Omondi,Fall,+265887596138,Malawi,Upes,Pending,Priya,USD,2000.0,2000.0,0.0,No Payment Due,EDO6532,2025-09-26
+Emmanuel,Achieng,+260374992275,Zambia,Srm Chennai,Enrolled,Vivek,USD,3000.0,322.0,2678.0,Payment Due,EDO5801,2026-05-15
+Moses,Mokoena,576008647,Zambia,Srm University,Active,Akshay,USD,3000.0,3000.0,0.0,No Payment Due,EDO7618,2025-01-25
+Otieno,,,Malawi,Amity University,Enrolled,Akshay,USD,937.5,51.0875,886.4125,Payment Due,EDO9824,2025-12-22
+Yusuf,Mabaso,+265301600575,Malawi,Upes,Enrolled,Priya,USD,2000.0,29.0,1971.0,Payment Due,EDO7546,2024-01-01
+Solomon,Adjei,+234698444808,Nigeria,Vit University,Inactive,Abdul,USD,2500.0,304.0,2196.0,Payment Due,EDO7899,2025-04-11
+Yemi,Owusu,,South Africa,Srm University,Enrolled,Abdul,USD,750.0,750.0,0.0,No Payment Due,EDO5969,2026-04-09
+Thabo,Eze,+255221210350,Tanzania,Lpu,In Progress,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO7781,2026-12-30
+Sipho,Sithole,,Ethiopia,Lpu,Dropped,Manan,USD,937.5,147.45,790.05,Payment Due,EDO7939,2025-06-23
+Faith,Boateng,+255503234404,Tanzania,Manipal University,Pending,Abdul,USD,1000.0,1000.0,0.0,No Payment Due,EDO1381,2026-11-23
+Adaeze,,+256342316114,Uganda,,Deferred,Abdul,USD,2000.0,415.0,1585.0,Payment Due,EDO9980,2025-11-04
+Nomsa,Mwangi,+256561824250,Uganda,Sharda University,Applied,Mayank,USD,1000.0,1000.0,0.0,No Payment Due,EDO5699,2026-11-02
+Mwangi,Asante,237727043585,Cameroon,,Enrolled,Akshay,USD,937.5,796.775,140.72500000000002,Payment Due,EDO5109,2024-10-11
+Mutua,Fall,+256581582077,Uganda,Srm Chennai,Waitlisted,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO9212,2025-11-10
+Yusuf,Mwale,+267889302539,Botswana,Upes,On Hold,Vivek,USD,750.0,105.0,645.0,Payment Due,EDO6356,2024-12-02
+Joy,Mensah,106246972,Botswana,Amity University,On Hold,Akshay,USD,750.0,158.0,592.0,Payment Due,EDO7627,2026-10-24
+Chisom,Ampofo,362020558,Ethiopia,Lovely Professional University,Active,Priya,USD,562.5,0.0,562.5,Payment Due,EDO6358,2024-04-02
+Chisom,Mthembu,387838023,Kenya,Amity Noida,Waitlisted,Priya,USD,562.5,0.0,562.5,Payment Due,EDO5023,2024-09-07
+Abena,Bello,,Malawi,,In Progress,Not Found,USD,2000.0,2000.0,0.0,No Payment Due,EDO1673,2025-04-29
+Omondi,Sithole,+233825161234,Ghana,Upes,Pending,Priya,USD,937.5,143.9125,793.5875,Payment Due,EDO6257,2026-02-23
+Amara,Mensah,+233585554962,Ghana,Srm Chennai,On Hold,Manan,USD,2000.0,1579.0,421.0,Payment Due,EDO3713,2024-04-14
+Daniel,Barry,+265485250508,Malawi,Amity Noida,In Progress,Manan,USD,1500.0,1500.0,0.0,No Payment Due,EDO1205,2025-04-17
+Hope,Owusu,+260022397478,Zambia,Bennett University,Applied,Priya,USD,2500.0,862.0,1638.0,Payment Due,EDO4338,2026-05-03
+Moses,Mensah,+265492543686,Malawi,Sharda University,Enrolled,Manan,USD,2500.0,194.0,2306.0,Payment Due,EDO2994,2026-05-08
+Yusuf,Phiri,167258838,Botswana,Srm Chennai,Deferred,Vivek,USD,562.5,70.7125,491.7875,Payment Due,EDO7208,2024-07-27
+Amara,Mumba,+255991509958,Tanzania,Lpu,On Hold,Not Assigned,USD,750.0,624.0,126.0,Payment Due,EDO5296,2026-05-06
+Daniel,Sithole,+265692972403,Malawi,Amity University,Pending,Mayank,USD,937.5,417.6875,519.8125,Payment Due,EDO9098,2025-03-17
+Tendai,Phiri,+260046383755,Zambia,Lpu,Active,Vivek,USD,750.0,626.0625,123.9375,Payment Due,EDO9764,2024-03-27
+Daniel,Adeyemi,,Malawi,Srm Chennai,Active,Vivek,USD,1000.0,0.0,1000.0,Payment Due,EDO6227,2025-01-02
+Thabo,Fall,454118881,Cameroon,Amity University,In Progress,Mayank,USD,1000.0,1000.0,0.0,No Payment Due,EDO7177,2025-08-26
+Abena,Adeyemi,+265252225509,Malawi,Amity Noida,Enrolled,Abdul,USD,1500.0,0.0,1500.0,Payment Due,EDO1818,2026-12-12
+Linet,Adjei,+27622382265,South Africa,Lpu,Pending,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO5275,2026-04-05
+Isaac,Bekele,930109654,Malawi,,Active,Manan,USD,750.0,199.6125,550.3875,Payment Due,EDO8527,2025-03-13
+Ruth,Girma,311433941,Rwanda,Chitkara University,Enrolled,Vivek,USD,2000.0,512.0,1488.0,Payment Due,EDO2409,2026-05-06
+Grace,Barry,618937333,Ethiopia,Amity Noida,Waitlisted,Vivek,USD,750.0,454.0,296.0,Payment Due,EDO4186,2024-04-10
+Kofi,Gyasi,,Zimbabwe,Chitkara University,Enrolled,Manan,USD,937.5,0.0,937.5,Payment Due,EDO6555,2024-07-22
+Amira,Ampofo,,Cameroon,Lovely Professional University,Active,Mayank,USD,1000.0,129.0,871.0,Payment Due,EDO6388,2024-02-22
+Zanele,Wanjiru,,South Africa,Amity University,Pending,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO5375,2026-01-14
+Yemi,Haile,+256084450332,Uganda,Vit University,In Progress,Manan,USD,750.0,344.2875,405.7125,Payment Due,EDO2518,2024-05-04
+Femi,Alemu,+255013071082,Tanzania,Lovely Professional University,Applied,Priya,USD,750.0,44.0,706.0,Payment Due,EDO3905,2026-01-12
+Musa,Eze,+255987945967,Tanzania,Bennett University,Pending,Manan,USD,750.0,182.8375,567.1625,Payment Due,EDO4497,2026-12-24
+Fatima,Girma,+264686951703,Namibia,Vit University,Active,Priya,USD,1000.0,236.0,764.0,Payment Due,EDO4703,2025-08-24
+Mwangi,Bello,+260380882729,Zambia,Lovely Professional University,Active,Not Found,USD,3000.0,3000.0,0.0,No Payment Due,EDO5788,2025-01-14
+Moses,Adeyemi,+265586984862,Malawi,Upes,Deferred,Mayank,USD,2500.0,1344.0,1156.0,Payment Due,EDO7526,2025-09-07
+Fatima,Adeyemi,56921131,Nigeria,Bennett University,Waitlisted,Akshay,USD,750.0,118.0,632.0,Payment Due,EDO9712,2025-03-24
+Kariuki,Okeke,481731249,Malawi,Srm Chennai,Enrolled,,USD,562.5,458.4875,104.01249999999999,Payment Due,EDO1252,2024-11-30
+Olumide,Mthembu,+267504524271,Botswana,Bennett University,Enrolled,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO3812,2024-05-14
+Abena,Abebe,,Rwanda,Manipal University,Active,Abdul,USD,1000.0,1000.0,0.0,No Payment Due,EDO5640,2024-01-11
+Chidi,Appiah,+254735491567,Kenya,Manipal University,In Progress,Unknown,USD,750.0,750.0,0.0,No Payment Due,EDO3209,2025-07-04
+Ebuka,Diallo,+265589688929,Malawi,Upes,Inactive,Unknown,USD,750.0,421.0,329.0,Payment Due,EDO3384,2025-03-21
+Njoroge,Okafor,+250163990149,Rwanda,Amity University,Pending,Mayank,USD,2000.0,448.0,1552.0,Payment Due,EDO6946,2024-10-19
+Omondi,Otieno,,Malawi,Vit University,Waitlisted,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO6895,2025-10-29
+Ngozi,Dike,,Zambia,Amity Noida,Dropped,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO4338,2026-01-06
+Sade,Kapinga,+265922328866,Malawi,Srm University,Dropped,Manan,USD,750.0,102.9375,647.0625,Payment Due,EDO7217,2026-05-25
+Zara,Nkosi,+265997662244,Malawi,Upes,Active,Akshay,USD,562.5,0.0,562.5,Payment Due,EDO5400,2024-04-08
+Aisha,Tembo,+263336522137,Zimbabwe,Chitkara University,On Hold,Manan,USD,3000.0,3000.0,0.0,No Payment Due,EDO6326,2025-05-05
+Kariuki,Balde,+256217272751,Uganda,,Pending,Akshay,USD,937.5,937.5,0.0,No Payment Due,EDO3865,2026-08-22
+Musa,Mutua,62220022,Nigeria,,Inactive,Unknown,USD,750.0,162.0,588.0,Payment Due,EDO5242,2026-05-11
+Sipho,Ampofo,+234729236093,Nigeria,Amity Noida,Deferred,Abdul,USD,937.5,89.475,848.025,Payment Due,EDO5097,2025-07-05
+Hassan,Camara,+233193069487,Ghana,Srm Chennai,Active,Manan,USD,937.5,163.225,774.275,Payment Due,EDO6572,2026-05-12
+Chidi,Ampofo,+251185875359,Ethiopia,Sharda University,Applied,Priya,USD,1500.0,878.0,622.0,Payment Due,EDO8506,2024-12-12
+Tunde,Khumalo,,Ethiopia,Upes,Pending,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO5338,2024-09-22
+Ibrahim,,+255952667086,Tanzania,Upes,Applied,Manan,USD,1000.0,0.0,1000.0,Payment Due,EDO5548,2026-11-08
+Emeka,Asante,699174357,Cameroon,Amity Noida,Dropped,Manan,USD,562.5,404.175,158.325,Payment Due,EDO3684,2025-01-29
+Chidi,Gyasi,+251905643369,Ethiopia,Upes,Dropped,Mayank,USD,1500.0,0.0,1500.0,Payment Due,EDO7478,2026-09-09
+Omondi,Diallo,,Tanzania,Srm University,Dropped,Vivek,USD,937.5,0.0,937.5,Payment Due,EDO4210,2025-03-10
+Hassan,Abebe,,Ethiopia,Amity Noida,In Progress,Priya,USD,750.0,193.0,557.0,Payment Due,EDO8273,2024-04-17
+Yusuf,Bello,+265763717512,Malawi,Srm Chennai,Enrolled,Mayank,USD,2000.0,2000.0,0.0,No Payment Due,EDO4788,2024-02-29
+Ngozi,Ampofo,+260773053424,Zambia,Vit University,In Progress,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO7049,2025-05-28
+Faith,Tadesse,+256895139880,Uganda,Sharda University,Enrolled,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO6382,2026-04-25
+Ade,Nwosu,+254494934251,Kenya,Srm Chennai,Inactive,Akshay,USD,750.0,122.075,627.925,Payment Due,EDO3634,2024-05-14
+Nkechi,Alemu,,Nigeria,Sharda University,In Progress,Manan,USD,3000.0,0.0,3000.0,Payment Due,EDO2324,2025-10-03
+Binta,Dlamini,139136137,Tanzania,Amity University,Enrolled,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO7282,2024-03-24
+Joy,Abebe,+250993553989,Rwanda,Sharda University,Inactive,Akshay,USD,562.5,562.5,0.0,No Payment Due,EDO5145,2024-06-19
+Esther,Ndlovu,+251825716513,Ethiopia,Sharda University,On Hold,Abdul,USD,2000.0,0.0,2000.0,Payment Due,EDO3903,2024-09-17
+Hassan,Girma,772016130,Malawi,Lovely Professional University,On Hold,Manan,USD,1000.0,1000.0,0.0,No Payment Due,EDO5731,2024-03-30
+Moses,Mumba,567638679,Zimbabwe,Lovely Professional University,Enrolled,Mayank,USD,2000.0,522.0,1478.0,Payment Due,EDO6023,2024-03-16
+Hassan,,,Rwanda,Srm Chennai,Applied,Manan,USD,750.0,0.0,750.0,Payment Due,EDO7497,2026-12-11
+Tunde,Annan,,Cameroon,Sharda University,Pending,Mayank,USD,937.5,0.0,937.5,Payment Due,EDO3020,2025-12-13
+Abraham,Ndiaye,,Namibia,Bennett University,In Progress,Manan,USD,2000.0,1263.0,737.0,Payment Due,EDO3141,2024-04-11
+Blessing,Annan,+251753060182,Ethiopia,Amity Noida,On Hold,Akshay,USD,1500.0,295.0,1205.0,Payment Due,EDO3070,2025-03-01
+Emmanuel,Mensah,574247612,Uganda,Sharda University,Applied,Not Assigned,USD,3000.0,405.0,2595.0,Payment Due,EDO6183,2026-07-21
+Musa,Adeyemi,,Malawi,Manipal University,Enrolled,Vivek,USD,3000.0,3000.0,0.0,No Payment Due,EDO7688,2024-02-16
+Musa,Tadesse,,South Africa,Srm Chennai,Active,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO9247,2024-08-27
+Yemi,Nwachukwu,+263911678178,Zimbabwe,Sharda University,Pending,Manan,USD,2000.0,329.0,1671.0,Payment Due,EDO4607,2024-06-30
+Kofi,Zungu,+27677717815,South Africa,Lovely Professional University,Inactive,Manan,USD,937.5,203.1375,734.3625,Payment Due,EDO4106,2025-12-20
+Faith,Boateng,+251958870219,Ethiopia,Upes,Enrolled,Akshay,USD,1000.0,1000.0,0.0,No Payment Due,EDO2615,2024-12-08
+Isaac,Otieno,680561005,Malawi,Srm University,Deferred,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO9900,2026-04-12
+Omar,Ampofo,+256621512744,Uganda,Chitkara University,Active,Unknown,USD,1500.0,669.0,831.0,Payment Due,EDO2411,2025-07-26
+Omondi,Zungu,+263218621934,Zimbabwe,Amity Noida,Enrolled,Akshay,USD,3000.0,2152.0,848.0,Payment Due,EDO3602,2024-08-05
+Kamau,Obi,237602947377,Cameroon,Upes,Active,Mayank,USD,1500.0,204.0,1296.0,Payment Due,EDO9758,2026-08-12
+Sade,Mutua,+27974482122,South Africa,Srm University,Deferred,Manan,USD,937.5,0.0,937.5,Payment Due,EDO7042,2026-03-26
+Emeka,Diop,+267899675486,Botswana,Amity Noida,Enrolled,Unknown,USD,1500.0,541.0,959.0,Payment Due,EDO5091,2024-06-19
+Mutua,Asante,+234906932678,Nigeria,Vit University,Enrolled,Unknown,USD,1000.0,0.0,1000.0,Payment Due,EDO8587,2025-06-24
+Emeka,Asante,256089179142,Uganda,Amity Noida,Pending,Priya,USD,562.5,0.0,562.5,Payment Due,EDO5422,2026-11-23
+Linet,Eze,+233372305401,Ghana,Vit University,Enrolled,Unknown,USD,1000.0,1000.0,0.0,No Payment Due,EDO1241,2024-08-29
+Adaeze,,+263495820741,Zimbabwe,Lpu,Dropped,Manan,USD,562.5,0.0,562.5,Payment Due,EDO9393,2026-12-11
+Kofi,Mwale,+254378840317,Kenya,,Enrolled,Abdul,USD,937.5,0.0,937.5,Payment Due,EDO2426,2025-09-29
+Ebuka,Mwale,+27032061366,South Africa,Lovely Professional University,Inactive,Manan,USD,1500.0,141.0,1359.0,Payment Due,EDO9978,2024-02-22
+Hassan,Mwale,,Ghana,Chitkara University,In Progress,,USD,1000.0,239.0,761.0,Payment Due,EDO9696,2025-02-08
+Aminata,Bello,256090387347,Uganda,,Active,Vivek,USD,1500.0,676.0,824.0,Payment Due,EDO8816,2024-08-06
+Mwangi,Girma,+255950906883,Tanzania,Bennett University,Pending,Vivek,USD,562.5,562.5,0.0,No Payment Due,EDO6792,2025-06-05
+Tunde,Phiri,+267453527247,Botswana,Bennett University,On Hold,Akshay,USD,937.5,937.5,0.0,No Payment Due,EDO6645,2024-02-25
+Adaeze,Ampofo,800107470,Zambia,Amity Noida,Active,Mayank,USD,562.5,168.65,393.85,Payment Due,EDO4140,2025-02-24
+Fatima,Mensah,935281037,Kenya,,Enrolled,Vivek,USD,937.5,937.5,0.0,No Payment Due,EDO6815,2024-01-24
+Fatima,Abebe,54313194,Uganda,Lovely Professional University,Enrolled,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO8316,2024-01-15
+Zanele,Kapinga,216624867,Zimbabwe,Sharda University,Pending,Mayank,USD,2000.0,133.0,1867.0,Payment Due,EDO2054,2024-09-26
+Faith,Mwale,+265419976303,Malawi,Vit University,Deferred,Abdul,USD,3000.0,0.0,3000.0,Payment Due,EDO1124,2025-06-18
+Lebo,Girma,+237332031942,Cameroon,Upes,Pending,Manan,USD,562.5,49.1875,513.3125,Payment Due,EDO9029,2024-03-13
+Binta,Bekele,+251861255655,Ethiopia,Sharda University,Pending,Mayank,USD,2500.0,2058.0,442.0,Payment Due,EDO3112,2024-07-16
+Blessing,Nkosi,975068420,South Africa,,Pending,Vivek,USD,2500.0,1381.0,1119.0,Payment Due,EDO4463,2025-01-16
+Kofi,Sithole,+233709522905,Ghana,Srm Chennai,In Progress,Akshay,USD,3000.0,925.0,2075.0,Payment Due,EDO2411,2026-07-14
+Nomsa,Kebede,+264935960347,Namibia,,Pending,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO8432,2025-10-30
+Wanjiru,Mwale,+265506048599,Malawi,Chitkara University,Enrolled,Akshay,USD,1500.0,0.0,1500.0,Payment Due,EDO3225,2025-08-30
+Daniel,Uche,+27449259973,South Africa,Bennett University,Enrolled,Vivek,USD,1000.0,458.0,542.0,Payment Due,EDO1522,2026-08-25
+Aminata,Zulu,+265264040619,Malawi,Sharda University,Pending,Vivek,USD,1500.0,396.0,1104.0,Payment Due,EDO4811,2025-09-14
+Abraham,Asante,122647177,Zimbabwe,Amity Noida,Pending,Akshay,USD,562.5,35.0375,527.4625,Payment Due,EDO3078,2026-04-25
+Joy,Nkosi,+263845344026,Zimbabwe,,Pending,Not Assigned,USD,2000.0,287.0,1713.0,Payment Due,EDO7500,2025-11-04
+Hope,Gyasi,105185623,Ghana,Lovely Professional University,In Progress,Vivek,USD,2000.0,405.0,1595.0,Payment Due,EDO1481,2025-03-03
+Ade,Annan,,Tanzania,Manipal University,In Progress,Priya,USD,937.5,272.6875,664.8125,Payment Due,EDO9121,2025-09-28
+Fatima,Otieno,,Zimbabwe,Amity Noida,Enrolled,Priya,USD,750.0,34.0,716.0,Payment Due,EDO5434,2024-02-13
+Adaeze,Mbewe,508415445,Kenya,Amity Noida,On Hold,Mayank,USD,562.5,0.0,562.5,Payment Due,EDO5511,2026-06-13
+Moses,Bello,+265089066897,Malawi,Vit University,Dropped,Manan,USD,2500.0,2033.0,467.0,Payment Due,EDO6662,2024-08-12
+Chisom,Balde,+233255590276,Ghana,Manipal University,Dropped,Vivek,USD,750.0,170.2,579.8,Payment Due,EDO7706,2025-12-29
+Amira,Eze,+233269444187,Ghana,Lovely Professional University,Inactive,Vivek,USD,750.0,600.1875,149.8125,Payment Due,EDO4363,2025-05-29
+Sade,Annan,+250122820149,Rwanda,Srm Chennai,Pending,Priya,USD,2500.0,760.0,1740.0,Payment Due,EDO8155,2026-07-21
+Omondi,Okeke,+234684280557,Nigeria,Chitkara University,Enrolled,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO9712,2026-02-17
+Esther,Tesfaye,+250179159008,Rwanda,Srm Chennai,Active,,USD,2000.0,927.0,1073.0,Payment Due,EDO5346,2024-05-31
+Amira,Obi,,Cameroon,Bennett University,Enrolled,Priya,USD,750.0,146.9625,603.0375,Payment Due,EDO5513,2024-06-11
+Omondi,Ampofo,,Uganda,Amity Noida,On Hold,Abdul,USD,2000.0,0.0,2000.0,Payment Due,EDO5158,2025-10-21
+Halima,Nkosi,+27969234419,South Africa,Amity University,Pending,Mayank,USD,562.5,0.0,562.5,Payment Due,EDO1196,2025-09-05
+Lebo,Ampofo,,Uganda,Amity Noida,Deferred,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO4178,2026-01-07
+Sade,Toure,256540664408,Uganda,Manipal University,Inactive,Manan,USD,937.5,0.0,937.5,Payment Due,EDO2248,2026-02-16
+Adaeze,Uche,,Zimbabwe,Bennett University,Applied,Manan,USD,2500.0,2500.0,0.0,No Payment Due,EDO6545,2026-10-25
+Ngozi,Gyasi,+251516884912,Ethiopia,Manipal University,Enrolled,Vivek,USD,750.0,501.0,249.0,Payment Due,EDO1913,2024-10-01
+Emeka,Asante,,Ghana,Manipal University,Enrolled,Unknown,USD,2000.0,0.0,2000.0,Payment Due,EDO7024,2026-08-08
+Emeka,Tembo,+255567364065,Tanzania,Lovely Professional University,Pending,Abdul,USD,937.5,0.0,937.5,Payment Due,EDO1336,2025-06-05
+Kemi,Toure,+251402136734,Ethiopia,Manipal University,In Progress,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO6895,2024-07-24
+Hassan,Owino,+267156403706,Botswana,Chitkara University,Pending,Not Assigned,USD,2000.0,0.0,2000.0,Payment Due,EDO6926,2025-01-24
+Rutendo,Kapinga,+234437487202,Nigeria,Manipal University,Pending,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO1880,2026-07-16
+Adaeze,Tembo,+250324595711,Rwanda,Srm University,On Hold,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO4549,2025-07-20
+Daniel,Mutua,+254119702416,Kenya,Manipal University,Applied,Akshay,USD,750.0,442.0,308.0,Payment Due,EDO2180,2024-12-01
+Samuel,Uche,+267555524164,Botswana,Manipal University,Pending,Manan,USD,2500.0,0.0,2500.0,Payment Due,EDO4118,2026-12-21
+Nkechi,Annan,+233518922928,Ghana,Srm Chennai,Pending,Unknown,USD,937.5,937.5,0.0,No Payment Due,EDO1016,2025-02-15
+Abraham,Dike,+263151117480,Zimbabwe,Sharda University,Enrolled,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO8039,2024-10-10
+Amira,Ndiaye,+267570225432,Botswana,Vit University,Active,Abdul,USD,2500.0,428.0,2072.0,Payment Due,EDO5306,2025-04-27
+Wanjiru,Mthembu,+264329138458,Namibia,Chitkara University,Enrolled,Abdul,USD,2500.0,0.0,2500.0,Payment Due,EDO8560,2026-09-06
+Daniel,Bello,256645583101,Uganda,Srm University,Inactive,Abdul,USD,750.0,750.0,0.0,No Payment Due,EDO9362,2024-10-25
+Blessing,Achieng,+265016762045,Malawi,Amity University,Enrolled,Abdul,USD,750.0,149.0,601.0,Payment Due,EDO8068,2026-01-04
+Hope,Mvula,,Rwanda,Amity Noida,Active,Priya,USD,1000.0,0.0,1000.0,Payment Due,EDO4220,2025-05-20
+Peace,Dike,+233982980965,Ghana,Upes,Inactive,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO6249,2024-02-12
+Halima,Khumalo,+256675194403,Uganda,Sharda University,Enrolled,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO4925,2024-12-26
+Aminata,Abebe,,Tanzania,Sharda University,Deferred,Vivek,USD,1500.0,1500.0,0.0,No Payment Due,EDO8237,2024-08-26
+Nkechi,Ndlovu,+251871258754,Ethiopia,Upes,Dropped,Manan,USD,2500.0,2500.0,0.0,No Payment Due,EDO2144,2026-01-18
+Lebo,Mokoena,+237883379879,Cameroon,Srm Chennai,Applied,Abdul,USD,937.5,937.5,0.0,No Payment Due,EDO2721,2026-04-28
+Aisha,Ampofo,+251045277024,Ethiopia,Vit University,Pending,Mayank,USD,1500.0,962.0,538.0,Payment Due,EDO8801,2024-03-16
+Solomon,Barry,+233571247441,Ghana,Lpu,In Progress,Unknown,USD,750.0,441.8375,308.1625,Payment Due,EDO3164,2025-09-15
+Tendai,Wanjiru,+27231779112,South Africa,Bennett University,Deferred,Unknown,USD,1000.0,0.0,1000.0,Payment Due,EDO4958,2025-03-21
+Zara,Banda,877556925,Ethiopia,Lovely Professional University,Applied,Manan,USD,750.0,196.2125,553.7875,Payment Due,EDO6711,2025-06-28
+Ruth,Ndiaye,+27086975715,South Africa,Amity University,Enrolled,,USD,2500.0,817.0,1683.0,Payment Due,EDO9593,2024-09-07
+Sipho,Obi,546129887,Uganda,Srm University,Waitlisted,Abdul,USD,750.0,256.9625,493.0375,Payment Due,EDO3844,2024-12-13
+Isaac,Tesfaye,,Zambia,Vit University,Enrolled,Vivek,USD,2000.0,364.0,1636.0,Payment Due,EDO4362,2024-10-01
+Sipho,Achieng,,Botswana,Manipal University,Pending,Akshay,USD,3000.0,0.0,3000.0,Payment Due,EDO2998,2025-04-22
+Otieno,Kebede,+255781735365,Tanzania,Chitkara University,Deferred,Priya,USD,3000.0,1925.0,1075.0,Payment Due,EDO9697,2026-05-15
+Tendai,Gyasi,,Malawi,Vit University,Pending,Mayank,USD,750.0,0.0,750.0,Payment Due,EDO5625,2026-11-29
+Omar,Fall,+250251905962,Rwanda,Sharda University,Applied,Manan,USD,562.5,0.0,562.5,Payment Due,EDO1778,2024-07-21
+Yemi,Okafor,+250289403202,Rwanda,Amity University,Active,Priya,USD,2000.0,0.0,2000.0,Payment Due,EDO8652,2025-03-31
+Halima,Barry,+265482160258,Malawi,Vit University,Enrolled,Vivek,USD,937.5,276.2375,661.2625,Payment Due,EDO6409,2025-09-10
+Emeka,Appiah,+267060223259,Botswana,Bennett University,Enrolled,Akshay,USD,2000.0,63.0,1937.0,Payment Due,EDO2055,2024-11-11
+Victor,Mwale,835940588,South Africa,Sharda University,Enrolled,Mayank,USD,750.0,133.0,617.0,Payment Due,EDO8276,2024-12-02
+Daniel,Cele,987086822,Rwanda,Upes,Dropped,Abdul,USD,562.5,0.0,562.5,Payment Due,EDO1284,2026-01-05
+Nkechi,Mthembu,+260872712694,Zambia,Srm Chennai,Active,Manan,USD,3000.0,0.0,3000.0,Payment Due,EDO4476,2024-03-26
+Linet,Ampofo,+263891216638,Zimbabwe,Upes,Pending,Abdul,USD,750.0,0.0,750.0,Payment Due,EDO1539,2024-06-05
+Binta,Mvula,+233894669592,Ghana,Amity University,Enrolled,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO9823,2026-06-11
+Peace,Otieno,+256099917247,Uganda,Lpu,Dropped,Akshay,USD,750.0,76.675,673.325,Payment Due,EDO2154,2025-10-27
+Hope,Asante,+27063917848,South Africa,Sharda University,Pending,Abdul,USD,2000.0,909.0,1091.0,Payment Due,EDO3894,2026-01-15
+Mutua,Uche,+27006274906,South Africa,Sharda University,Active,Priya,USD,562.5,562.5,0.0,No Payment Due,EDO8122,2025-01-19
+Tendai,Otieno,+27823534156,South Africa,Lpu,On Hold,Priya,USD,562.5,31.8875,530.6125,Payment Due,EDO2141,2026-08-02
+Chidi,Wanjiru,+263398105427,Zimbabwe,Lpu,Enrolled,Unknown,USD,562.5,306.95,255.55,Payment Due,EDO2607,2024-04-11
+Zanele,Phiri,677945237,Uganda,Lpu,Deferred,Manan,USD,1000.0,697.0,303.0,Payment Due,EDO4112,2024-10-16
+Femi,Mbewe,671271247,Rwanda,Srm Chennai,Applied,Priya,USD,1000.0,73.0,927.0,Payment Due,EDO7373,2026-08-05
+Fatima,,,Nigeria,Upes,Pending,Not Found,USD,1000.0,551.0,449.0,Payment Due,EDO2734,2026-11-14
+Ibrahim,Nwachukwu,+255015596478,Tanzania,Upes,Inactive,Akshay,USD,562.5,0.0,562.5,Payment Due,EDO7496,2026-03-04
+Otieno,Mvula,+234807224601,Nigeria,Amity University,In Progress,Priya,USD,562.5,0.0,562.5,Payment Due,EDO3862,2026-01-16
+Wanjiru,Ndlovu,+251808859732,Ethiopia,Amity University,Enrolled,Unknown,USD,2500.0,225.0,2275.0,Payment Due,EDO3815,2025-01-04
+Yemi,Adjei,+263338137564,Zimbabwe,Srm Chennai,Deferred,Priya,USD,750.0,0.0,750.0,Payment Due,EDO7821,2025-08-03
+Solomon,Okeke,,Tanzania,Lovely Professional University,Inactive,Manan,USD,1000.0,1000.0,0.0,No Payment Due,EDO6439,2025-04-08
+Ruth,Bekele,+250359973889,Rwanda,Vit University,Deferred,Akshay,USD,3000.0,326.0,2674.0,Payment Due,EDO3145,2025-03-19
+Njoroge,Asante,,Uganda,Chitkara University,Pending,Manan,USD,1000.0,0.0,1000.0,Payment Due,EDO3550,2024-06-13
+Chidi,Mutua,+27669938149,South Africa,Manipal University,Enrolled,Akshay,USD,937.5,0.0,937.5,Payment Due,EDO8686,2026-05-19
+Rutendo,,+255729213150,Tanzania,Bennett University,Enrolled,Vivek,USD,750.0,403.8375,346.1625,Payment Due,EDO7508,2026-06-26
+Hassan,Dlamini,+267712873045,Botswana,Lovely Professional University,Enrolled,Abdul,USD,2500.0,2500.0,0.0,No Payment Due,EDO7157,2025-01-26
+Emmanuel,Mwale,,Uganda,Srm Chennai,Enrolled,Abdul,USD,1000.0,0.0,1000.0,Payment Due,EDO7936,2026-03-11
+Kemi,Kamau,,Zambia,Upes,In Progress,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO8921,2024-08-14
+Wanjiru,Diop,+267111220039,Botswana,Amity Noida,Dropped,Not Assigned,USD,3000.0,401.0,2599.0,Payment Due,EDO1470,2026-01-30
+Omar,,+263190033697,Zimbabwe,Sharda University,Enrolled,Akshay,USD,562.5,27.5125,534.9875,Payment Due,EDO8557,2026-07-16
+Moses,Wanjiru,+234453964236,Nigeria,Vit University,On Hold,Akshay,USD,1000.0,1000.0,0.0,No Payment Due,EDO4464,2024-02-29
+Aisha,,474113914,Kenya,Amity Noida,Waitlisted,Vivek,USD,2000.0,286.0,1714.0,Payment Due,EDO4781,2026-04-21
+Omar,Zulu,,Rwanda,Bennett University,Dropped,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO7323,2024-05-31
+Samuel,Toure,+263096424048,Zimbabwe,,Active,Priya,USD,1000.0,1000.0,0.0,No Payment Due,EDO9863,2025-02-26
+Ruth,Camara,+234183703014,Nigeria,Srm Chennai,Dropped,Abdul,USD,937.5,0.0,937.5,Payment Due,EDO5679,2026-11-17
+Blessing,,+234953394727,Nigeria,Bennett University,Waitlisted,Unknown,USD,750.0,750.0,0.0,No Payment Due,EDO3882,2025-12-01
+Otieno,Abebe,+234327078733,Nigeria,Srm Chennai,Pending,Vivek,USD,750.0,85.0,665.0,Payment Due,EDO9256,2025-01-03
+Kwame,Owino,+263999815791,Zimbabwe,Bennett University,Pending,Unknown,USD,562.5,38.4875,524.0125,Payment Due,EDO6439,2026-12-10
+Ebuka,Alemu,+237513791206,Cameroon,Amity Noida,Enrolled,Manan,USD,1000.0,0.0,1000.0,Payment Due,EDO6518,2026-07-31
+Ngozi,Mokoena,+250010805617,Rwanda,Srm University,Enrolled,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO5288,2024-09-26
+Tunde,Mvula,+265683878972,Malawi,Lovely Professional University,Enrolled,Vivek,USD,937.5,213.8625,723.6375,Payment Due,EDO5082,2024-10-13
+Solomon,Kebede,,Nigeria,Lpu,Deferred,Vivek,USD,937.5,284.55,652.95,Payment Due,EDO2326,2025-07-30
+Hope,Alemu,+255845203933,Tanzania,Upes,Active,Priya,USD,2000.0,275.0,1725.0,Payment Due,EDO6392,2026-05-17
+Kamau,Nwosu,4666390,Rwanda,Manipal University,In Progress,Akshay,USD,1500.0,1500.0,0.0,No Payment Due,EDO7828,2024-09-14
+Aminata,Okafor,+234525057188,Nigeria,Vit University,Active,Priya,USD,2000.0,2000.0,0.0,No Payment Due,EDO6309,2026-06-10
+Nia,Khumalo,+233391598320,Ghana,,On Hold,Priya,USD,1500.0,446.0,1054.0,Payment Due,EDO9022,2025-07-27
+Sipho,Owino,+255128155997,Tanzania,Amity Noida,Deferred,Manan,USD,2500.0,1035.0,1465.0,Payment Due,EDO7715,2024-11-22
+Grace,Fall,+250346998346,Rwanda,,Pending,Not Assigned,USD,3000.0,0.0,3000.0,Payment Due,EDO6025,2024-10-20
+Olumide,Mbewe,+254010014266,Kenya,Bennett University,In Progress,Abdul,USD,2500.0,1207.0,1293.0,Payment Due,EDO7269,2024-10-16
+Nomsa,,179631483,Botswana,Amity University,Pending,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO5710,2024-11-10
+Mutua,Banda,988559841,Zimbabwe,Vit University,Waitlisted,Mayank,USD,2500.0,473.0,2027.0,Payment Due,EDO7970,2024-02-23
+Nomsa,Kapinga,+264453249619,Namibia,Lpu,Dropped,Akshay,USD,1000.0,391.0,609.0,Payment Due,EDO5191,2024-09-13
+Emmanuel,Cele,,Ghana,Lpu,In Progress,Not Assigned,USD,562.5,164.3375,398.1625,Payment Due,EDO1469,2024-12-16
+Ibrahim,Balde,+251197107479,Ethiopia,Manipal University,Active,Akshay,USD,750.0,569.8875,180.11249999999995,Payment Due,EDO2334,2025-06-14
+Thabo,Wanjiru,+264496898829,Namibia,Srm University,Active,Vivek,USD,2000.0,32.0,1968.0,Payment Due,EDO8654,2024-05-27
+Yemi,Diop,+251807725838,Ethiopia,Sharda University,Pending,Vivek,USD,2000.0,0.0,2000.0,Payment Due,EDO2271,2025-12-10
+Omondi,Toure,163791273,Zambia,Upes,Waitlisted,Mayank,USD,2500.0,0.0,2500.0,Payment Due,EDO4318,2025-03-12
+Abraham,Okafor,,Ghana,Amity Noida,Active,Manan,USD,750.0,750.0,0.0,No Payment Due,EDO1985,2024-10-20
+Nia,Ndlovu,+265575945471,Malawi,Vit University,Pending,Priya,USD,750.0,135.0125,614.9875,Payment Due,EDO6475,2025-11-09
+Moses,Quartey,,South Africa,Sharda University,On Hold,Akshay,USD,562.5,0.0,562.5,Payment Due,EDO6402,2024-01-05
+Isaac,Dlamini,+260770351185,Zambia,Srm Chennai,Enrolled,Not Found,USD,937.5,0.0,937.5,Payment Due,EDO1613,2026-12-06
+Ngozi,Mokoena,+264797747949,Namibia,Lovely Professional University,Waitlisted,Akshay,USD,2500.0,0.0,2500.0,Payment Due,EDO4536,2025-03-24
+Chidi,Haile,237674474476,Cameroon,Amity University,Enrolled,Vivek,USD,3000.0,683.0,2317.0,Payment Due,EDO5914,2026-03-14
+Zanele,Bello,+264324626281,Namibia,,Deferred,Akshay,USD,2000.0,254.0,1746.0,Payment Due,EDO5583,2025-11-18
+Amira,Mumba,+237879921256,Cameroon,Amity Noida,Waitlisted,Priya,USD,937.5,544.175,393.32500000000005,Payment Due,EDO5878,2024-11-14
+Zara,Nwosu,+250783940789,Rwanda,Upes,On Hold,Priya,USD,1000.0,108.0,892.0,Payment Due,EDO3719,2024-05-04
+Moses,Kebede,+250701017076,Rwanda,Lovely Professional University,Applied,Manan,USD,1500.0,705.0,795.0,Payment Due,EDO4158,2026-04-11
+Nkechi,Njoroge,+251345155560,Ethiopia,Lpu,Enrolled,Priya,USD,3000.0,3000.0,0.0,No Payment Due,EDO8850,2024-04-26
+Halima,Sithole,+263844768005,Zimbabwe,Lpu,Active,Manan,USD,750.0,0.0,750.0,Payment Due,EDO6302,2025-01-09
+Peace,Tadesse,+265295814533,Malawi,Lpu,Applied,Not Assigned,USD,750.0,413.1875,336.8125,Payment Due,EDO2313,2025-04-20
+Thabo,Kapinga,+250023897659,Rwanda,Chitkara University,Deferred,Akshay,USD,937.5,0.0,937.5,Payment Due,EDO2300,2025-04-20
+Mwangi,Boateng,+264000132726,Namibia,Manipal University,Applied,Manan,USD,1500.0,0.0,1500.0,Payment Due,EDO4088,2026-07-13
+Ngozi,Boateng,+234478565735,Nigeria,Lpu,Active,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO2928,2026-08-26
+Abraham,Wanjiru,+250408568809,Rwanda,Chitkara University,Deferred,Abdul,USD,750.0,415.0,335.0,Payment Due,EDO2840,2026-06-04
+Amira,Zulu,256126670475,Uganda,Chitkara University,Enrolled,Abdul,USD,750.0,106.4625,643.5375,Payment Due,EDO9777,2025-07-19
+Emeka,Owusu,+260966419283,Zambia,Amity University,Enrolled,Mayank,USD,2500.0,301.0,2199.0,Payment Due,EDO2732,2025-12-09
+Adaeze,Okafor,809474952,Ghana,Upes,Deferred,Akshay,USD,937.5,937.5,0.0,No Payment Due,EDO7738,2024-03-27
+Daniel,,+251902293551,Ethiopia,Lovely Professional University,Active,Akshay,USD,3000.0,828.0,2172.0,Payment Due,EDO9662,2025-04-29
+Solomon,Boateng,+234671531179,Nigeria,Vit University,Applied,Manan,USD,562.5,158.65,403.85,Payment Due,EDO3550,2026-06-27
+Grace,Phiri,+265394497663,Malawi,Manipal University,Active,Akshay,USD,2000.0,0.0,2000.0,Payment Due,EDO7446,2026-11-01
+Femi,Tesfaye,+263067823726,Zimbabwe,Srm Chennai,In Progress,Priya,USD,2000.0,2000.0,0.0,No Payment Due,EDO1624,2025-02-14
+Omondi,,+251568889345,Ethiopia,Bennett University,On Hold,Mayank,USD,2500.0,456.0,2044.0,Payment Due,EDO7656,2025-04-12
+Ade,Otieno,,Cameroon,Srm University,Active,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO8311,2024-09-05
+Adaeze,Adjei,+234428472187,Nigeria,Sharda University,Active,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO2919,2026-10-24
+Nia,Kamau,+251169340009,Ethiopia,Lovely Professional University,In Progress,Abdul,USD,937.5,937.5,0.0,No Payment Due,EDO9265,2024-04-23
+Kariuki,Owino,+256793382915,Uganda,Amity Noida,Dropped,Abdul,USD,562.5,327.4,235.10000000000002,Payment Due,EDO2119,2026-08-07
+Ibrahim,Mwale,164660743,Rwanda,Amity University,Enrolled,Vivek,USD,3000.0,861.0,2139.0,Payment Due,EDO9485,2026-01-30
+Halima,Barry,,Kenya,Amity University,On Hold,Priya,USD,2000.0,427.0,1573.0,Payment Due,EDO1057,2024-02-03
+Ngozi,Tesfaye,+264434195129,Namibia,Manipal University,Active,Akshay,USD,750.0,0.0,750.0,Payment Due,EDO1704,2025-08-02
+Thabo,Nwachukwu,+250911897601,Rwanda,Lovely Professional University,Enrolled,Abdul,USD,562.5,562.5,0.0,No Payment Due,EDO5439,2026-04-09
+Emmanuel,Mutua,256103370043,Uganda,Amity University,Waitlisted,Akshay,USD,3000.0,3000.0,0.0,No Payment Due,EDO3353,2025-12-08
+Victor,Bello,902230887,Cameroon,Upes,Enrolled,Vivek,USD,2000.0,616.0,1384.0,Payment Due,EDO7406,2026-07-23
+Nia,Toure,,Cameroon,Amity Noida,Inactive,Manan,USD,750.0,64.5875,685.4125,Payment Due,EDO3929,2026-08-24
+Ngozi,Owino,,Botswana,Srm Chennai,Pending,Mayank,USD,2000.0,2000.0,0.0,No Payment Due,EDO4151,2025-01-07
+Isaac,Gyasi,+251958877499,Ethiopia,Lovely Professional University,Enrolled,Abdul,USD,750.0,67.0,683.0,Payment Due,EDO7536,2026-04-18
+Zara,Wanjiru,,Malawi,Upes,Active,Priya,USD,2500.0,510.0,1990.0,Payment Due,EDO8935,2024-07-06
+Omondi,Mokoena,+233493627017,Ghana,Upes,Applied,Priya,USD,750.0,0.0,750.0,Payment Due,EDO4312,2025-09-01
+Esther,Abebe,+254056204196,Kenya,Amity University,Enrolled,Not Found,USD,2500.0,1068.0,1432.0,Payment Due,EDO3680,2024-12-12
+Daniel,Njoroge,+251867466915,Ethiopia,Lovely Professional University,Active,Priya,USD,2500.0,2500.0,0.0,No Payment Due,EDO3989,2024-07-19
+Kemi,Wanjiru,+265899036058,Malawi,Srm Chennai,Dropped,Akshay,USD,2500.0,707.0,1793.0,Payment Due,EDO5838,2024-06-25
+Nomsa,Achieng,+237756255007,Cameroon,Vit University,Deferred,Vivek,USD,750.0,750.0,0.0,No Payment Due,EDO8014,2024-04-05
+Emmanuel,Khumalo,+265417823971,Malawi,Srm University,On Hold,Manan,USD,3000.0,1375.0,1625.0,Payment Due,EDO7326,2024-07-11
+Sade,Mthembu,+237175193002,Cameroon,Lovely Professional University,Waitlisted,Manan,USD,2500.0,0.0,2500.0,Payment Due,EDO2058,2025-08-06
+Sipho,Tesfaye,,Cameroon,Amity University,Enrolled,Manan,USD,3000.0,3000.0,0.0,No Payment Due,EDO1660,2025-08-04
+Yusuf,Uche,256309352555,Uganda,Manipal University,Pending,Abdul,USD,2500.0,682.0,1818.0,Payment Due,EDO8111,2024-04-16
+Rutendo,Appiah,+27745999788,South Africa,,Waitlisted,Priya,USD,3000.0,2445.0,555.0,Payment Due,EDO6637,2024-08-26
+Victor,Owino,+255359944901,Tanzania,Sharda University,Pending,Priya,USD,3000.0,893.0,2107.0,Payment Due,EDO1257,2024-06-30
+Victor,Ndlovu,549348707,Zimbabwe,Lpu,Enrolled,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO8068,2024-06-18
+Otieno,Mbewe,+250089398019,Rwanda,Manipal University,Enrolled,Priya,USD,2500.0,0.0,2500.0,Payment Due,EDO1325,2024-11-22
+Musa,Bekele,,Nigeria,Lpu,Pending,Abdul,USD,937.5,937.5,0.0,No Payment Due,EDO7538,2024-01-01
+Isaac,Nkosi,+255387012976,Tanzania,Chitkara University,Enrolled,Vivek,USD,750.0,0.0,750.0,Payment Due,EDO3593,2026-02-05
+Emeka,,+264244039262,Namibia,Amity Noida,Enrolled,Priya,USD,3000.0,0.0,3000.0,Payment Due,EDO8928,2026-09-13
+Rutendo,Ndlovu,952138734,Rwanda,Srm Chennai,On Hold,Abdul,USD,3000.0,0.0,3000.0,Payment Due,EDO2359,2026-04-14
+Abraham,Mvula,+255632796814,Tanzania,Upes,Applied,Vivek,USD,562.5,100.325,462.175,Payment Due,EDO4013,2025-08-08
+Ibrahim,Owusu,,Tanzania,Chitkara University,Inactive,Vivek,USD,750.0,750.0,0.0,No Payment Due,EDO7827,2026-11-17
+Tendai,,,Zambia,Srm Chennai,Active,Priya,USD,1000.0,0.0,1000.0,Payment Due,EDO6391,2024-07-31
+Zara,Adeyemi,+260242970821,Zambia,Lovely Professional University,On Hold,Mayank,USD,937.5,937.5,0.0,No Payment Due,EDO2678,2024-05-20
+Chisom,Phiri,+254079262534,Kenya,Srm University,Enrolled,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO3852,2026-01-13
+Solomon,Khumalo,+27508675615,South Africa,Bennett University,Enrolled,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO1523,2024-12-11
+Wanjiru,Fall,+250622537087,Rwanda,Srm University,Active,Unknown,USD,1500.0,413.0,1087.0,Payment Due,EDO7940,2025-04-17
+Olumide,Uche,+260230666214,Zambia,Lpu,Enrolled,Vivek,USD,1000.0,431.0,569.0,Payment Due,EDO8601,2026-10-20
+Tendai,Boateng,+264826544024,Namibia,Srm University,Enrolled,Vivek,USD,937.5,0.0,937.5,Payment Due,EDO8714,2025-01-15
+Zanele,Okeke,+264594439898,Namibia,Lovely Professional University,Dropped,Vivek,USD,750.0,750.0,0.0,No Payment Due,EDO5491,2026-10-09
+Thabo,Gyasi,+265194212782,Malawi,Amity Noida,Waitlisted,Unknown,USD,2000.0,2000.0,0.0,No Payment Due,EDO7677,2024-09-06
+Wanjiru,Mthembu,+264571293845,Namibia,,Active,Priya,USD,1500.0,1500.0,0.0,No Payment Due,EDO2018,2024-08-09
+Zanele,Mabaso,+263761379165,Zimbabwe,Srm Chennai,Waitlisted,Akshay,USD,2000.0,1194.0,806.0,Payment Due,EDO4527,2026-05-23
+Tunde,Omondi,+255299165318,Tanzania,Vit University,Enrolled,Abdul,USD,2500.0,0.0,2500.0,Payment Due,EDO9177,2024-10-02
+Femi,Tadesse,257216766,Malawi,Lovely Professional University,Pending,Unknown,USD,750.0,258.0,492.0,Payment Due,EDO2458,2026-11-26
+Njoroge,Dlamini,+267936313916,Botswana,Srm Chennai,Deferred,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO4080,2026-09-04
+Halima,Balde,+265975121039,Malawi,Upes,Pending,Abdul,USD,2000.0,2000.0,0.0,No Payment Due,EDO6817,2025-09-25
+Tunde,Diallo,+267130317884,Botswana,Chitkara University,Dropped,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO6762,2026-03-04
+Esther,Nkosi,+237726305087,Cameroon,Bennett University,Pending,Mayank,USD,937.5,690.5875,246.91250000000002,Payment Due,EDO8173,2025-09-21
+Ebuka,Bekele,+254646914740,Kenya,Lovely Professional University,In Progress,Not Found,USD,937.5,937.5,0.0,No Payment Due,EDO4531,2024-11-09
+Otieno,Mbewe,237843286192,Cameroon,Vit University,Deferred,Abdul,USD,937.5,570.6875,366.8125,Payment Due,EDO2187,2024-07-04
+Abraham,Camara,+260600311452,Zambia,Chitkara University,Active,Akshay,USD,750.0,750.0,0.0,No Payment Due,EDO5457,2026-04-04
+Aminata,Khumalo,+265347849645,Malawi,Lovely Professional University,Applied,Priya,USD,750.0,750.0,0.0,No Payment Due,EDO4527,2024-08-17
+Binta,Mokoena,865769327,Rwanda,Lovely Professional University,On Hold,Priya,USD,937.5,0.0,937.5,Payment Due,EDO4268,2025-05-22
+Mutua,,+255005661846,Tanzania,Sharda University,Enrolled,Akshay,USD,1500.0,1500.0,0.0,No Payment Due,EDO3824,2025-11-29
+Adaeze,,+234952020743,Nigeria,,Pending,Abdul,USD,1500.0,22.0,1478.0,Payment Due,EDO1238,2024-04-13
+Faith,Tesfaye,256259516624,Uganda,Lovely Professional University,Waitlisted,Akshay,USD,1500.0,166.0,1334.0,Payment Due,EDO7358,2026-08-24
+Emmanuel,Mbewe,+251928492426,Ethiopia,Lpu,Inactive,Vivek,USD,750.0,750.0,0.0,No Payment Due,EDO7174,2026-12-16
+Mwangi,Bekele,+250221830868,Rwanda,Amity University,Pending,Manan,USD,3000.0,280.0,2720.0,Payment Due,EDO3028,2025-09-30
+Ibrahim,Dike,,Cameroon,Lpu,Inactive,Vivek,USD,1500.0,0.0,1500.0,Payment Due,EDO9218,2026-02-10
+Halima,Alemu,+264144069705,Namibia,,In Progress,Abdul,USD,562.5,123.2125,439.2875,Payment Due,EDO7596,2025-01-03
+Mwangi,Sithole,237951277,Tanzania,Manipal University,On Hold,Mayank,USD,2000.0,2000.0,0.0,No Payment Due,EDO6181,2025-02-22
+Halima,Mokoena,+264459133445,Namibia,Lpu,Enrolled,Vivek,USD,562.5,57.45,505.05,Payment Due,EDO2184,2026-05-19
+Isaac,Boateng,,Uganda,Lovely Professional University,Applied,Abdul,USD,750.0,80.0,670.0,Payment Due,EDO2034,2025-01-09
+Linet,Banda,+251321179861,Ethiopia,Amity Noida,In Progress,Vivek,USD,2500.0,0.0,2500.0,Payment Due,EDO8312,2025-02-01
+Binta,Diop,+265174410132,Malawi,Srm Chennai,Pending,Manan,USD,2000.0,2000.0,0.0,No Payment Due,EDO9571,2025-02-27
+Abena,Owino,+264504250220,Namibia,Amity Noida,Pending,Vivek,USD,2000.0,2000.0,0.0,No Payment Due,EDO7829,2026-03-02
+Njoroge,Bello,46193364,Tanzania,Chitkara University,Enrolled,Abdul,USD,750.0,57.0,693.0,Payment Due,EDO1978,2025-08-18
+Victor,Zungu,,South Africa,Srm Chennai,In Progress,Priya,USD,750.0,0.0,750.0,Payment Due,EDO6986,2024-05-11
+Tendai,Camara,67051680,Ethiopia,Lovely Professional University,Deferred,Mayank,USD,750.0,750.0,0.0,No Payment Due,EDO5076,2026-08-28
+Otieno,Kamau,,Botswana,Sharda University,Active,Priya,USD,3000.0,3000.0,0.0,No Payment Due,EDO9552,2026-02-19
+Halima,Barry,,Namibia,,Enrolled,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO3059,2025-03-21
+Kariuki,Fall,+264174638646,Namibia,,Pending,Abdul,USD,562.5,34.8375,527.6625,Payment Due,EDO7289,2025-04-15
+Linet,Omondi,+260328085227,Zambia,,Pending,Manan,USD,937.5,937.5,0.0,No Payment Due,EDO9747,2026-01-20
+Kemi,Phiri,295860140,Tanzania,Vit University,Applied,Akshay,USD,2000.0,2000.0,0.0,No Payment Due,EDO2116,2025-10-21
+Daniel,,+251094582306,Ethiopia,Manipal University,Deferred,Unknown,USD,1500.0,331.0,1169.0,Payment Due,EDO8178,2026-03-30
+Ruth,Zulu,256290461508,Uganda,Upes,Pending,Unknown,USD,562.5,0.0,562.5,Payment Due,EDO8856,2024-02-26
+Joy,Asante,+255995151326,Tanzania,,In Progress,Unknown,USD,1500.0,1500.0,0.0,No Payment Due,EDO8757,2025-08-24
+Omar,Owusu,+27395820526,South Africa,Upes,Active,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO1779,2024-10-11
+Ruth,Otieno,+254327960066,Kenya,Amity Noida,Waitlisted,Priya,USD,2000.0,847.0,1153.0,Payment Due,EDO4200,2025-06-12
+Zara,Tadesse,+256752657566,Uganda,Lpu,Pending,Akshay,USD,937.5,227.175,710.325,Payment Due,EDO8596,2025-04-28
+Sade,,256998765674,Uganda,Amity Noida,Enrolled,Not Found,USD,1000.0,0.0,1000.0,Payment Due,EDO7176,2025-11-20
+Nia,Kapinga,+251192564716,Ethiopia,Srm University,Active,Priya,USD,3000.0,1332.0,1668.0,Payment Due,EDO3503,2024-07-21
+Femi,Phiri,908069079,Tanzania,Vit University,Deferred,Mayank,USD,3000.0,2019.0,981.0,Payment Due,EDO2272,2026-05-18
+Halima,Boateng,489363227,Rwanda,Lovely Professional University,Active,Not Assigned,USD,937.5,0.0,937.5,Payment Due,EDO2515,2025-04-14
+Adaeze,Ndlovu,+234217107737,Nigeria,Bennett University,On Hold,Not Assigned,USD,2500.0,137.0,2363.0,Payment Due,EDO1064,2026-05-13
+Hassan,Appiah,,Zimbabwe,Chitkara University,Enrolled,Akshay,USD,1500.0,1500.0,0.0,No Payment Due,EDO8071,2024-03-05
+Victor,Nkosi,+27452929,Rwanda,Lovely Professional University,Applied,Akshay,USD,1000.0,238.0,762.0,Payment Due,EDO9540,2026-04-19
+Ruth,Tembo,+267603821805,Botswana,Sharda University,Applied,Unknown,USD,562.5,0.0,562.5,Payment Due,EDO8389,2024-02-10
+Olumide,Bello,182718417,Zambia,Vit University,Applied,Akshay,USD,2000.0,529.0,1471.0,Payment Due,EDO8804,2024-06-27
+Zanele,Camara,+250721042728,Rwanda,Manipal University,Pending,Vivek,USD,562.5,125.4125,437.0875,Payment Due,EDO4761,2026-07-13
+Halima,Cele,360892343,Rwanda,Bennett University,Active,Akshay,USD,562.5,91.775,470.725,Payment Due,EDO1051,2026-05-07
+Hassan,Fall,+260723275376,Zambia,Upes,In Progress,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO4940,2024-05-04
+Ade,Nkosi,698849604,Zimbabwe,Srm University,Enrolled,Vivek,USD,3000.0,0.0,3000.0,Payment Due,EDO9240,2025-07-25
+Chisom,Mumba,,Ethiopia,Bennett University,Active,Priya,USD,2500.0,2500.0,0.0,No Payment Due,EDO2003,2026-10-02
+Adaeze,Mensah,+27990133246,South Africa,Srm Chennai,Applied,Unknown,USD,2500.0,0.0,2500.0,Payment Due,EDO4714,2024-10-10
+Tunde,Boateng,+255106528162,Tanzania,Vit University,Deferred,Abdul,USD,1000.0,431.0,569.0,Payment Due,EDO7109,2024-07-26
+Abraham,Bello,,Rwanda,Srm Chennai,Enrolled,Manan,USD,1000.0,156.0,844.0,Payment Due,EDO6095,2026-10-01
+Musa,Obi,,Tanzania,Upes,Enrolled,Vivek,USD,3000.0,2044.0,956.0,Payment Due,EDO6481,2026-06-22
+Yusuf,Kamau,+234398449286,Nigeria,Lpu,On Hold,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO3728,2025-09-08
+Aminata,Adjei,+233019200111,Ghana,Vit University,Active,Mayank,USD,562.5,562.5,0.0,No Payment Due,EDO3581,2024-01-26
+Peace,,,Botswana,Bennett University,Enrolled,Unknown,USD,1000.0,811.0,189.0,Payment Due,EDO7858,2024-04-05
+Binta,Ndlovu,+265624062221,Malawi,Lovely Professional University,Active,Abdul,USD,3000.0,3000.0,0.0,No Payment Due,EDO5176,2026-01-15
+Kemi,Dlamini,+256490771500,Uganda,Amity Noida,Inactive,Not Assigned,USD,1500.0,0.0,1500.0,Payment Due,EDO8209,2025-10-25
+Isaac,Achieng,540390245,Nigeria,Bennett University,Active,Mayank,USD,750.0,572.0,178.0,Payment Due,EDO7543,2025-02-24
+Aminata,Gyasi,,Ghana,Lovely Professional University,Enrolled,Vivek,USD,937.5,83.375,854.125,Payment Due,EDO7445,2025-08-30
+Nkechi,Phiri,+264134968177,Namibia,Bennett University,Enrolled,Mayank,USD,1500.0,1500.0,0.0,No Payment Due,EDO4845,2026-11-12
+Ngozi,Phiri,+233743422686,Ghana,Upes,Inactive,Not Assigned,USD,750.0,0.0,750.0,Payment Due,EDO7221,2025-01-09
+Aminata,Ndiaye,256605312846,Uganda,Manipal University,Active,Abdul,USD,2000.0,639.0,1361.0,Payment Due,EDO1411,2025-02-06
+Tunde,,+255641067929,Tanzania,Srm University,Inactive,Vivek,USD,2000.0,712.0,1288.0,Payment Due,EDO7966,2025-11-22
+Emmanuel,Mensah,,Nigeria,Srm University,Pending,Akshay,USD,1000.0,0.0,1000.0,Payment Due,EDO7957,2026-02-07
+Otieno,Banda,+27475193355,South Africa,Lovely Professional University,Pending,Priya,USD,562.5,0.0,562.5,Payment Due,EDO8403,2026-07-26
+Binta,Bello,+254110577390,Kenya,Lovely Professional University,On Hold,Unknown,USD,1000.0,257.0,743.0,Payment Due,EDO2157,2024-06-04
+Blessing,Asante,,Kenya,Srm University,Active,Mayank,USD,562.5,175.15,387.35,Payment Due,EDO4853,2025-12-15
+Linet,Achieng,,Ethiopia,Upes,Active,Akshay,USD,1000.0,265.0,735.0,Payment Due,EDO1583,2026-11-03
+Victor,Boateng,+237973960963,Cameroon,Sharda University,Active,Unknown,USD,3000.0,416.0,2584.0,Payment Due,EDO5765,2024-10-12
+Ibrahim,Bello,+27376763715,South Africa,Chitkara University,Dropped,Mayank,USD,562.5,562.5,0.0,No Payment Due,EDO3085,2024-09-02
+Ade,Diop,933714004,Namibia,Sharda University,Deferred,Abdul,USD,1000.0,0.0,1000.0,Payment Due,EDO1865,2025-05-18
+Linet,Tesfaye,+267923158486,Botswana,Manipal University,Enrolled,Manan,USD,750.0,37.2125,712.7875,Payment Due,EDO2881,2026-01-27
+Hope,Ndlovu,+263901821468,Zimbabwe,Amity Noida,Active,Akshay,USD,937.5,0.0,937.5,Payment Due,EDO2988,2024-04-30
+Emmanuel,Eze,415139042,Malawi,Vit University,On Hold,Priya,USD,1500.0,0.0,1500.0,Payment Due,EDO8018,2025-09-18
